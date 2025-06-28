@@ -1,23 +1,29 @@
 <br/>
 <section id="footer">
-<div class="container-footer">
-  <div class="panel-footer">
-    <div class="row">
-      <div class="col-sm-6">
-          <h5>About</h5>	
-          <p>{{ site.affiliation }}</p>
-      </div>
+  <div class="container-footer">
+    <div class="panel-footer">
+      <div class="row">
+        <div class="col-12">
+          {% if site.contact %}
+            <h5>Contact</h5>
+            <p>
+              <strong>Office:</strong><br>
+              {% for address in site.contact.office_addresses %}
+                {{ address }}<br>
+              {% endfor %}
+              
+              <strong>Email:</strong><br> {% for email in site.contact.emails %}
+                <a href="mailto:{{ email }}">{{ email }}</a><br>
+              {% endfor %}
+            </p>
+          {% endif %}
+        </div>
+        </div>
 
-      <div class="col-sm-6">
-          <h5>Coordinates</h5>	
-          <p>{{ site.location }}</p>
-      </div>
+      <center><p>&copy; {{ "now" | date: "%Y" }} {{ site.title | escape }}</p></center>
     </div>
-
-    <center><p>&copy {{ "now" | date: "%Y" }} {{site.title | escape }} </p></center>
   </div>
-</div>
-</div>
+</section>
 
 <script src="{{ "/assets/javascript/bootstrap/bootstrap.bundle.min.js" | relative_url }}"></script>
 

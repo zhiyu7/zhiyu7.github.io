@@ -1,5 +1,5 @@
 # Site settings
-title: Yu Lab @ MGH
+title: Zhi Yu Lab @ MGH
 email: zyu5@mgh.harvard.edu
 description: Academic webpage of Zhi Yu
 baseurl: ""
@@ -11,13 +11,13 @@ url: ""
 # google_tag_manager: XXX
 
 # Footer info
-affiliation: >
-  (1) CTEU, Department of Medicine, Massachusetts General Hospital <br/>
-  (2) Program of Medical and Population Genetics, Broad Institute of MIT and Harvard
-
-location: >
-  (1) 100 Cambridge Street, Office 1576, Boston, MA 02114 <br/>
-  (2) 75 Ames Street, Office 10020A, Cambridge, MA 02142
+contact:
+  office_addresses:
+    - "100 Cambridge Street, Office 1576, Boston, MA 02114"
+    - "75 Ames Street, Cambridge, MA 02142"
+  emails:
+    - "zyu5@mgh.harvard.edu"
+    - "zyu@broadinstitute.org"
 
 #contact: >
  # <a href="mailto:zyu5@mgh.harvard.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Zhi via email</a> <br/>
@@ -31,6 +31,7 @@ nav_pages:
   - name: publications
 #  - name: talks
   - name: openings
+  - name: smart-jc
 #  - name: blogs
 
 include:
