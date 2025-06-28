@@ -18,21 +18,16 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 
 *equal contribution; [full list of publications](https://scholar.google.com/citations?hl=en&user=gd04NQ8AAAAJ&view_op=list_works&sortby=pubdate)
 
-## Preprints
-<div class="jumbotron">
-6. Koyama S, **Yu Z**, Choi S, Jurgens S, Selvaraj M, Klarin D, Huffman J, Clarke S, Trinh M, Ravi A, Dron J, Spinks C, Surakka I, Bhatnagar A, Lannery K, Hornsby W, Damrauer S, Chang K, Lynch J, Assimes T, Tsao P, Rader D, Cho K, Peloso G, Ellinor P, Sun Y, Wilson P, The Million Veteran Program , Natarajan P. Exome wide association study for blood lipids in 1,158,017 individuals from diverse populations. medRxiv. 2024 Sep 18.
-5. Kamineni M, Raghu V, Truong B, Alaa A, Schuermans A, Friedman S, Reeder C, Bhattacharya R, Libby P, Ellinor PT, Maddah M, Philippakis A, Hornsby W, **Yu Z\***, Natarajan P\*. Deep learning-derived splenic radiomics, genomics, and coronary artery disease. medRxiv. 2024 Aug 20.
-4. Vlasschaert C\*, Pan Y\*, Chen J, Akwo E, Rao V, Hixson JE, Chong M, Uddin MM, **Yu Z**, Jiang M, Peng F, Cao S, Wang Y, Kim DK, Hung AM, He J, Tamura MK, Cohen DL, He J, Li C, Bhat Z, Rao P, Xie D, Bick AG, Kestenbaum B, Paré G, Rauh MJ, Levin A, Natarajan P, Lash JP, Zhang MZ, Harris RC, Robinson-Cohen C, Lanktree MB, Kelly TN. Clonal hematopoiesis of indeterminate potential contributes to accelerated chronic kidney disease progression. medRxiv. 2024 Jun 20.
-3. **Yu Z**, Vromman A, Nguyen N , Vellarikkal SK, Uddin M, Niroula A, Griffin G, Honigberg MC, Lin AE, Gibson CJ, Katz DH, Tahir U, Haidermota S, Ganesh S, Antoine T, Weinstock J, Austin TR, Ramachandran VS, Peloso GM, Hornsby W, Ganz P, Manson JE, Haring B, Kooperberg CL, Reiner AP, Bis JC, Psaty BM, Min Y, Correa A, Lange LA, Post WS, Rotter JI, Rich SS, Wilson JG, Ebert B , Yu B, Ballantyne CM, Coresh J, Sankaran VG, Bick A , Jaiswal S, Libby P, Gerszten RE, NHLBI Trans-Omics for Precision Medicine, Gupta RM, Natarajan P. Human Plasma Proteomic Profile of Clonal Hematopoiesis. bioRxiv. 2023 July.
-2. Uddin M\*, **Yu Z\***, Weinstock J, Nakao T, Niroula A, Urbut S, Koyama S, Zekavat S, Paruchuri K, Silver A, Mack T, Wong M, Haidermota S, Bhattacharya R, Doroodgar Jorshery S, Raddatz M, Honigberg M, Hornsby W, Zhang M, Sankaran V, Griffin G, Gibson C, Kresge H, Ellinor P, Cho K, Sun Y, Wilson P, Pyarajan S, Genovese G, Xu Y, Savona M, Reiner A, Jaiswal S, Ebert B, Bick A, Natarajan P. Germline genomic and phenomic landscape of clonal hematopoiesis in 323,112 individuals. medRxiv. 2022 July.
-1. **Yu Z**, Wongvibulsin S, Daya NR, Zhou L, Matsushita K, Natarajan P, coresh J, Zeger SL. Machine Learning for Sudden Cardiac Death Prediction in the Atherosclerosis Risk in Communities Study. medRxiv. 2022 January.
-</div>
-
 ## Publications
-
 <!-- Manually list your publications below -->
 
 <div class="jumbotron">
+  
+  65. Bellomo T, Bramel E, Lee J, Urbut S, Flores AM, **Yu Z**, Koyama S, Truong B, Haidermota S, Eagleton M, Natarajan P, Patel A. Evaluation of Lipoprotein(a) as a Prognostic Marker of Extracoronary Atherosclerotic Vascular Disease Progression. Circulation. Accepted.
+  64. Jowell A, Urbut S, Cho SJ, Liu Y, Schuermans A, Koyama S, **Yu Z**, Pradeep N, Honigberg M. Female-Specific Cardiovascular Risk Factors in Severe Hypercholesterolemia. JACC Adv. Accepted.
+  63. **Yu Z**, Vlasschaert C, Natarajan P. Deciphering Clonal Hematopoiesis of Indeterminate Potential: Methods, Mechanisms, and Implications for Kidney Diseases. J Am Soc Nephrol. 2025 Apr 15.
+  62. Pan Y, Vlasschaert C, Rao V, Akwo EA, Hixson JE, Uddin M, **Yu Z**, Kim DK, Bick A, Kestenbaum B, Chong M, Paré G, Rauh M, Levin A, Lash JP, Kurella Tamura M, Cohen DL, He J, Hamm L, Deo R, Bhat Z, Rao P, Xie D, Natarajan P, Kelly TN, Robinson-Cohen C, Lanktree MB; Canadian Study of Prediction of Death, Dialysis and Interim Cardiovascular Events (CanPREDDICT) and Chronic Renal Insufficiency Cohort (CRIC) Study Investigators. Association of Clonal Hematopoiesis of Indeterminate Potential with Cardiovascular Events in Patients with CKD. J Am Soc Nephrol. 2025 Apr 9.
+  61. Vlasschaert C, Pan Y, Chen J, Akwo E, Rao V, Hixson JE, Chong M, Uddin MM, **Yu Z**, Jiang M, Peng F, Cao S, Wang Y, Kim DK, Hung AM, He J, Tamura MK, Cohen DL, He J, Li C, Bhat Z, Rao P, Xie D, Bick AG, Kestenbaum B, Paré G, Rauh MJ, Levin A, Natarajan P, Lash JP, Zhang MZ, Harris RC Jr, Robinson-Cohen C, Lanktree MB, Kelly TN; Chronic Renal Insufficiency Cohort (CRIC) Study Investigators. Clonal Hematopoiesis of Indeterminate Potential and Progression of CKD. J Am Soc Nephrol. 2025 Apr 9.
   60. Schuermans A, Pournamdari AB, Lee J, Bhukar R, Ganesh S, Darosa N, Small AM, **Yu Z**, Hornsby W, Koyama S, Januzzi JL, Honigberg MC, Natarajan P. Integrative proteomic analyses across common cardiac diseases yield mechanistic insights and enhanced prediction. Nat Cardiovasc Res. 2024 Nov 21.
   59. Li X, Chen H, Selvaraj MS, Van Buren E, Zhou H, Wang Y, Sun R, McCaw ZR, **Yu Z**, ..., Taylor KD, Tiwari H, Vasan RS, Wang Z, Yanek LR, Yu B, Rice KM, Rotter JI, Peloso GM, Natarajan P, Li Z, Liu Z, Lin X. A statistical framework for powerful multi-trait rare variant analysis in large-scale whole-genome sequencing studies. Nat Comput Sci. Accepted.
   58. Zuriaga MA\*, **Yu Z\***, Matesanz N, Truong B, Ramos-Neble BL, Asensio-López MC, Uddin MM, Nakao T, Niroula A, Zorita V, Amorós-Pérez M, Moro R, Ebert BL, Honigberg MC, Pascual-Figal D, Natarajan P, Fuster JJ. Colchicine prevents accelerated atherosclerosis in TET2-mutant clonal haematopoiesis. Eur Heart J. 2024 Aug 30. [Epub ahead of print] 
@@ -97,3 +92,12 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
   <!-- Add more publication entries as needed -->
 </div>
 
+
+## Preprints
+<div class="jumbotron">
+5. Koyama S, **Yu Z**, Choi S, Jurgens S, Selvaraj M, Klarin D, Huffman J, Clarke S, Trinh M, Ravi A, Dron J, Spinks C, Surakka I, Bhatnagar A, Lannery K, Hornsby W, Damrauer S, Chang K, Lynch J, Assimes T, Tsao P, Rader D, Cho K, Peloso G, Ellinor P, Sun Y, Wilson P, The Million Veteran Program , Natarajan P. Exome wide association study for blood lipids in 1,158,017 individuals from diverse populations. medRxiv. 2024 Sep 18.
+4. Kamineni M, Raghu V, Truong B, Alaa A, Schuermans A, Friedman S, Reeder C, Bhattacharya R, Libby P, Ellinor PT, Maddah M, Philippakis A, Hornsby W, **Yu Z\***, Natarajan P\*. Deep learning-derived splenic radiomics, genomics, and coronary artery disease. medRxiv. 2024 Aug 20.
+3. **Yu Z**, Vromman A, Nguyen N , Vellarikkal SK, Uddin M, Niroula A, Griffin G, Honigberg MC, Lin AE, Gibson CJ, Katz DH, Tahir U, Haidermota S, Ganesh S, Antoine T, Weinstock J, Austin TR, Ramachandran VS, Peloso GM, Hornsby W, Ganz P, Manson JE, Haring B, Kooperberg CL, Reiner AP, Bis JC, Psaty BM, Min Y, Correa A, Lange LA, Post WS, Rotter JI, Rich SS, Wilson JG, Ebert B , Yu B, Ballantyne CM, Coresh J, Sankaran VG, Bick A , Jaiswal S, Libby P, Gerszten RE, NHLBI Trans-Omics for Precision Medicine, Gupta RM, Natarajan P. Human Plasma Proteomic Profile of Clonal Hematopoiesis. bioRxiv. 2023 July.
+2. Uddin M\*, **Yu Z\***, Weinstock J, Nakao T, Niroula A, Urbut S, Koyama S, Zekavat S, Paruchuri K, Silver A, Mack T, Wong M, Haidermota S, Bhattacharya R, Doroodgar Jorshery S, Raddatz M, Honigberg M, Hornsby W, Zhang M, Sankaran V, Griffin G, Gibson C, Kresge H, Ellinor P, Cho K, Sun Y, Wilson P, Pyarajan S, Genovese G, Xu Y, Savona M, Reiner A, Jaiswal S, Ebert B, Bick A, Natarajan P. Germline genomic and phenomic landscape of clonal hematopoiesis in 323,112 individuals. medRxiv. 2022 July.
+1. **Yu Z**, Wongvibulsin S, Daya NR, Zhou L, Matsushita K, Natarajan P, coresh J, Zeger SL. Machine Learning for Sudden Cardiac Death Prediction in the Atherosclerosis Risk in Communities Study. medRxiv. 2022 January.
+</div>
