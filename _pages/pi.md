@@ -79,7 +79,6 @@ permalink: /pi/  # Change from /about/ to /pi/
 </div>
 
 
-
 {% if site.data.awards %}
 
 <div class="jumbotron">
@@ -91,6 +90,14 @@ permalink: /pi/  # Change from /about/ to /pi/
   </ul>
 </div>
 {% endif %}
+
+
+<div class="jumbotron">
+  <h3>Professional Service</h3>
+  <p>Like many of us in this job, I’ve served as an ad hoc reviewer for a good number of journals, conferences, and symposia; as a moderator at local and national conferences; and as an organizer or organizing-committee member for events and conferences.</p>
+  <p>I quite enjoy this part of my job. For example, we founded the <a href="/smart-jc/"> Somatic MutAtion Research Trainee (SMART) Journal Club</a> in April 2023 and have been organizing it since. I will also serve on the Program Committee for the <a href="https://www.ashg.org/"> American Society of Human Genetics</a> starting January 1, 2026.</p>
+</div>
+
 
 <div class="jumbotron">
   <h4>Thanks</h4>
