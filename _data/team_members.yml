@@ -45,3 +45,9 @@
   info: Visiting medical student
   bio: >
     Cyril is a first-year master’s student in Medicine at KU Leuven University in Belgium. His research focuses on integrating machine learning with multi-omics data to study clonal hematopoiesis of indeterminate potential (CHIP) and its associations with disease outcomes, such as cardiovascular disease. He aims to strengthen his computational research expertise and contribute to future advances in precision medicine. He completed his Bachelor of Medicine at KU Leuven.
+
+- name: Wenxin Xiang
+  photo: Wenxin.jpg
+  info: Co-mentored visiting Ph.D. student with Dr. Wenjie Ma
+  bio: >
+    Wenxin is currently a Ph.D. student in Biomedical Engineering at Tsinghua University. Her research focuses on leveraging large language models to predict the risk and progression of Alzheimer’s disease and related dementias. She holds a Bachelor’s degree in biomedical engineering from Northeastern University (China).
