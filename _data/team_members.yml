@@ -1,39 +1,47 @@
 - name: Meghana Kamineni
   photo: Meghana.jpg
   info: Co-mentored student with Dr. Pradeep Natarajan
-  bio: Meghana is a medical student at Harvard Medical School. She is working on using machine learning techniques to identify splenic features in abdominal MRIs that are associated with increased risk for coronary artery disease. She holds a bachelor's degree in Computer Science from MIT.
+  bio: >
+    Meghana is a medical student at Harvard Medical School. She is working on using machine learning techniques to identify splenic features in abdominal MRIs that are associated with increased risk for coronary artery disease. She holds a bachelor's degree in Computer Science from MIT.
 
 - name: Xinyu Wang
   photo: Xinyu.jpg
   info: Co-mentored student with Dr. Ed Giovannucci
-  bio: Xinyu is currently a master's student in Department of Epidemiology, Harvard T.H. Chan School of Public Health. Her research focuses on integrating multi-omics data to explore the underlying mechanisms of cancers and cardiometabolic diseases. She is also passionate about translating epidemiological findings into clinical practice. She holds dual bachelor’s degrees in Medicine and Economics from Peking University.
+  bio: >
+    Xinyu is currently a master's student in Department of Epidemiology, Harvard T.H. Chan School of Public Health. Her research focuses on integrating multi-omics data to explore the underlying mechanisms of cancers and cardiometabolic diseases. She is also passionate about translating epidemiological findings into clinical practice. She holds dual bachelor’s degrees in Medicine and Economics from Peking University.
 
 - name: Yixuan (Kathy) Liu
   photo: Kathy.jpg
   info: Co-mentored student with Dr. Michael Honigberg
-  bio: Kathy is a master’s student in Department of Biostatistics, Computational Biology and Quantitative Genetics, Harvard T.H. Chan School of Public Health. Her research leverages multi-omics approaches to investigate proteomic profiles and methylation patterns associated with somatic mutations in clonal hematopoiesis of indeterminate potential (CHIP) and cardiovascular disease (CVD). She holds a dual degree in Molecular Bioscience, Genetics and Genomics from Duke Kunshan University and Duke University. 
+  bio: >
+    Kathy is a master’s student in Department of Biostatistics, Computational Biology and Quantitative Genetics, Harvard T.H. Chan School of Public Health. Her research leverages multi-omics approaches to investigate proteomic profiles and methylation patterns associated with somatic mutations in clonal hematopoiesis of indeterminate potential (CHIP) and cardiovascular disease (CVD). She holds a dual degree in Molecular Bioscience, Genetics and Genomics from Duke Kunshan University and Duke University. 
 
 - name: Zhanqing (Anthea) Hua
   photo: Anthea.jpg
   info: Co-mentored student with Dr. Vineet Raghu
-  bio: Zhanqing (Anthea) Hua is a Master student in Genetic Epidemiology at the Harvard School of Public Health. Her research centers on integrating deep learning methodologies with genome-wide association studies (GWAS) to advance understanding of human disease. She is committed to exploring the associations between genomic factors and disease outcomes to inform risk prediction and potential interventions. She obtained her Bachelor of Science degree in Biological Sciences from Imperial College London.
+  bio: >
+    Zhanqing (Anthea) Hua is a Master student in Genetic Epidemiology at the Harvard School of Public Health. Her research centers on integrating deep learning methodologies with genome-wide association studies (GWAS) to advance understanding of human disease. She is committed to exploring the associations between genomic factors and disease outcomes to inform risk prediction and potential interventions. She obtained her Bachelor of Science degree in Biological Sciences from Imperial College London.
 
 - name: Linke Li
   photo: Linke.jpg
   info: Computational associate jointly with Dr. Michael Honigberg
-  bio: Linke Li holds a Master's degree in Biostatistics from Duke University. Her research focuses on integrating deep learning methodologies into statistical genetics to enhance disease risk prediction and identify at-risk populations. She is interested in comparing the disease prediction capabilities of deep learning methods with traditional approaches like genome-wide association studies (GWAS) and polygenic risk scores (PRS). By identifying novel genetic variations, she aims to improve risk prediction models and contribute to preventive healthcare for disease.
+  bio: >
+    Linke Li holds a Master's degree in Biostatistics from Duke University. Her research focuses on integrating deep learning methodologies into statistical genetics to enhance disease risk prediction and identify at-risk populations. She is interested in comparing the disease prediction capabilities of deep learning methods with traditional approaches like genome-wide association studies (GWAS) and polygenic risk scores (PRS). By identifying novel genetic variations, she aims to improve risk prediction models and contribute to preventive healthcare for disease.
 
 - name: Shengxin Liang
   photo: Shengxin.jpg
   info: Co-mentored student with Dr. Akl Fahed
-  bio: Shengxin is currently a Master student in Pharmacoepidemiology at the Harvard School of Public Health. Her research focuses on utilizing genetic epidemiology and pharmacoepidemiology methods to investigate cardiovascular drug efficiency and safety. She holds a bachelor’s degree in biology from McGill University. In her spare time, she is interested in wildlife conservation.
+  bio: >
+    Shengxin is currently a Master student in Pharmacoepidemiology at the Harvard School of Public Health. Her research focuses on utilizing genetic epidemiology and pharmacoepidemiology methods to investigate cardiovascular drug efficiency and safety. She holds a bachelor’s degree in biology from McGill University. In her spare time, she is interested in wildlife conservation.
 
 - name: Yiru "Angelina" Jin
   photo: Yiru.jpg
   info: Co-mentored undergrad student with Dr. Vineet Raghu
-  bio: Angelina is a sophomore at Boston University majoring in Biochemistry and Molecular Biology on a pre-dental track. She is currently studying the effects of environmental and nutritional stress on the mitochondrial pathway. Moving forward, she hopes to expand her knowledge of computational biology and explore machine learning techniques to enhance data analysis in biological research.
+  bio: >
+    Angelina is a sophomore at Boston University majoring in Biochemistry and Molecular Biology on a pre-dental track. She is currently studying the effects of environmental and nutritional stress on the mitochondrial pathway. Moving forward, she hopes to expand her knowledge of computational biology and explore machine learning techniques to enhance data analysis in biological research.
 
 - name: Cyril François
   photo: Cyril.jpg
   info: Visiting medical student
-  bio: Cyril is a first-year master’s student in Medicine at KU Leuven University in Belgium. His research focuses on integrating machine learning with multi-omics data to study clonal hematopoiesis of indeterminate potential (CHIP) and its associations with disease outcomes, such as cardiovascular disease. He aims to strengthen his computational research expertise and contribute to future advances in precision medicine. He completed his Bachelor of Medicine at KU Leuven.
+  bio: >
+    Cyril is a first-year master’s student in Medicine at KU Leuven University in Belgium. His research focuses on integrating machine learning with multi-omics data to study clonal hematopoiesis of indeterminate potential (CHIP) and its associations with disease outcomes, such as cardiovascular disease. He aims to strengthen his computational research expertise and contribute to future advances in precision medicine. He completed his Bachelor of Medicine at KU Leuven.
