@@ -36,7 +36,38 @@ iframe {
 <div class="col-md-12 col-sm-12">
 <h4>Postdoctoral Fellow</h4>
 
-<p>If you are interested in joining the lab as a postdoc, please contact Zhi via email (zyu5@mgh.harvard.edu) with your CV and brief summary of your past research experiences and future interests. Salary will be competitive compared to similar roles.</p>
+<p><strong>Description:</strong> Yu Lab at MGH and the Broad Institute of MIT and Harvard is seeking a motivated and creative Postdoctoral Fellow to join our team (<a href="https://zhiyu7.github.io/" target="_blank">https://zhiyu7.github.io/</a>).</p>
+<p>Our lab focuses on developing and applying computational and statistical methods to multi-omics and other multi-modal data to unravel the mechanisms and potential interventions for cardiovascular and other age-related diseases. We aim to develop personalized strategies for disease prevention and treatment.</p>
+<p>We leverage a wide array of rich, multi-modal datasets (including genomics, transcriptomes, proteomics, medical imaging, clinical data, and lifestyle data). Our research is deeply embedded in the vibrant Boston/Cambridge biomedical ecosystem, providing unparalleled opportunities for collaboration to access and generate new data.</p>
+
+<p><strong>Research Areas & Responsibilities:</strong> The successful candidate will use their strong computational expertise to lead projects in one or more of our key research areas:</p>
+<ul>
+  <li><strong>Clonal Hematopoiesis & Age-related Disease:</strong> We are passionate about understanding the biology of aging. This research area focuses on how age-related somatic mutations, particularly clonal hematopoiesis (CH), contribute to disease. We believe understanding and intervening in these processes is one of the most important questions for our society.</li>
+  <li><strong>Machine Learning & Multi-modal Data:</strong> We are also working on leverage machine learning to extract information from imaging and clinical notes and further integrate with omics data to discover novel biological insights and perform risk prediction.</li>
+  <li><strong>Multi-omics Methods Development:</strong> While we apply multi-omics data to many questions, we would love to tackle fundamental methodological challenges within the data itself (e.g., discordance between proteomics platforms). We are highly motivated to develop methods that make these measurements more robust, harmonized, and interpretable.</li>
+</ul>
+
+<p><strong>Qualifications:</strong></p>
+<ul>
+  <li>A Ph.D. (or expected Ph.D.) in a quantitative field such as Biostatistics, Bioinformatics, Computational Biology, Electrical or Biomedical Engineering, Genetic Epidemiology, or related discipline.</li>
+  <li>Strong computational and programming skills are essential (e.g., R or Python).</li>
+  <li>Demonstrated experience in analyzing large-scale, complex datasets.</li>
+  <li>First-authored publication(s) demonstrating scientific rigor and creativity.</li>
+</ul>
+
+<p><strong>Please Note:</strong> A background in biology or prior experience with omics data is not a requirement. As the field evolves rapidly, we welcome candidates with relevant but non-overlapping skill sets who are eager to adapt and learn, so we can grow together.</p>
+
+<p><strong>What We Offer:</strong></p>
+<ul>
+  <li>A strong commitment to mentorship and career development. The group has a robust publication record, and we are dedicated to helping you build yours. For postdocs aiming for academia, we provide active support for grant applications (e.g., K99/R00) to ensure you are a strong candidate on the job market.</li>
+  <li>Access to rich, large-scale data, in terms of both the number of cohorts and data types.</li>
+  <li>Mentorship opportunities. You will have the chance to mentor a number of talented junior students (who are really lovely to work with), helping you gain valuable mentoring experience while expanding your own  publication record.</li>
+  <li>A world-class research environment. Of course – this is Boston : )</li>
+  <li>A competitive salary compared to similar roles.</li>
+  <li>We welcome you to chat with our current members to learn more about the group.</li>
+</ul>
+
+<p><strong>How to Apply:</strong> Interested candidates should send the following materials to Zhi at <a href="mailto:zyu5@mgh.harvard.edu">zyu5@mgh.harvard.edu</a> or <a href="mailto:zyu@broadinstitute.org">zyu@broadinstitute.org</a></p>
 
 </div>
 </div>
