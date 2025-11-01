@@ -8,9 +8,9 @@ $baseurl: "{{ site.url }}{{ site.baseurl }}";
 
 // Import variables for the light theme
 // @import "bootstrap/variables";
-@import "bootstrap/bootstrap";
+// @import "bootstrap/bootstrap";
 // @import "syntax-highlighting";
 @import "bootstrap-4-jekyll/bootstrap-4-jekyll";
 // @import "bootstrap_customization";
-@import "bootstrap";
+// @import "bootstrap";
 @import "SHB_css";
