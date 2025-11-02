@@ -37,8 +37,7 @@ iframe {
 <h4>Postdoctoral Fellow</h4>
 
 <p><strong>Description:</strong> Yu Lab at MGH and the Broad Institute of MIT and Harvard is seeking a motivated and creative Postdoctoral Fellow to join our team (<a href="https://zhiyu7.github.io/" target="_blank">https://zhiyu7.github.io/</a>).</p>
-<p>Our lab focuses on developing and applying computational and statistical methods to multi-omics and other multi-modal data to unravel the mechanisms and potential interventions for cardiovascular and other age-related diseases. We aim to develop personalized strategies for disease prevention and treatment.</p>
-<p>We leverage a wide array of rich, multi-modal datasets (including genomics, transcriptomes, proteomics, medical imaging, clinical data, and lifestyle data). Our research is deeply embedded in the vibrant Boston/Cambridge biomedical ecosystem, providing unparalleled opportunities for collaboration to access and generate new data.</p>
+<p>Our lab focuses on developing and applying computational and statistical methods to multi-omics and other multi-modal data (including genomics, transcriptomes, proteomics, medical imaging, clinical data, and lifestyle data)to examine the mechanisms and potential interventions for cardiovascular and other age-related diseases. We aim to develop personalized strategies for disease prevention and treatment.</p>
 
 <p><strong>Research Areas & Responsibilities:</strong> The successful candidate will use their strong computational expertise to lead projects in one or more of our key research areas:</p>
 <ul>
@@ -55,7 +54,7 @@ iframe {
   <li>First-authored publication(s) demonstrating scientific rigor and creativity.</li>
 </ul>
 
-<p><strong>Please Note:</strong> A background in biology or prior experience with omics data is not a requirement. As the field evolves rapidly, we welcome candidates with relevant but non-overlapping skill sets who are eager to adapt and learn, so we can grow together.</p>
+<p><strong>Please Note:</strong> A background in biology or prior experience with omics data is not a requirement. As the field evolves rapidly, we welcome candidates with relevant but non-overlapping skill sets who are willing to adapt and learn, so we can grow together.</p>
 
 <p><strong>What We Offer:</strong></p>
 <ul>
