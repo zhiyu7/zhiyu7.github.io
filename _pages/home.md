@@ -7,7 +7,7 @@ permalink: /
 
 ### Computational Multi-omics for Age-related Diseases
 
-***We are recruiting a postdoctoral fellow [(link)](/openings/) and are open to students and fellows whose research interests align with ours!***
+***We are currently recruiting a postdoctoral fellow, please check out the "Openings" tab [(link)](/openings/) for detailed job description.***
 
 Our research focuses on **computational modeling of human multi-omics** data to uncover the mechanisms driving **cardiovascular and other age-related diseases**, aiming to identify personalized strategies for disease prevention and treatment.
 
