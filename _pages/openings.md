@@ -37,9 +37,9 @@ iframe {
 <h4>Postdoctoral Fellow</h4>
 
 <p><strong>Description:</strong> Yu Lab at MGH and the Broad Institute of MIT and Harvard is seeking a motivated and creative Postdoctoral Fellow to join our team (<a href="https://zhiyu7.github.io/" target="_blank">https://zhiyu7.github.io/</a>).</p>
-<p>Our lab focuses on developing and applying computational and statistical methods to multi-omics and other multi-modal data (including genomics, transcriptomes, proteomics, medical imaging, clinical data, and lifestyle data)to examine the mechanisms and potential interventions for cardiovascular and other age-related diseases. We aim to develop personalized strategies for disease prevention and treatment.</p>
+<p>Our lab focuses on developing and applying computational and statistical methods to multi-omics and other multi-modal data (including genomics, transcriptomes, proteomics, medical imaging, clinical data, and lifestyle data) to examine the mechanisms and potential interventions for cardiovascular and other age-related diseases. We aim to develop personalized strategies for disease prevention and treatment.</p>
 
-<p><strong>Research Areas & Responsibilities:</strong> The successful candidate will use their strong computational expertise to lead projects in one or more of our key research areas:</p>
+<p><strong>Research Areas & Responsibilities:</strong> The successful candidate will use their strong computational expertise to lead projects in one or more of our key research areas, depending on interest and expertise:</p>
 <ul>
   <li><strong>Clonal Hematopoiesis & Age-related Disease:</strong> We are passionate about understanding the biology of aging. This research area focuses on how age-related somatic mutations, particularly clonal hematopoiesis (CH), contribute to disease. We believe understanding and intervening in these processes is one of the most important questions for our society.</li>
   <li><strong>Machine Learning & Multi-modal Data:</strong> We are also working on leverage machine learning to extract information from imaging and clinical notes and further integrate with omics data to discover novel biological insights and perform risk prediction.</li>
