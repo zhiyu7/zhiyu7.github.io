@@ -36,7 +36,7 @@ iframe {
 <div class="col-md-12 col-sm-12">
 <h4>Postdoctoral Fellow</h4>
 
-<p><strong>Description:</strong> Yu Lab at MGH and the Broad Institute of MIT and Harvard is seeking a motivated and creative Postdoctoral Fellow to join our team (<a href="https://zhiyu7.github.io/" target="_blank">https://zhiyu7.github.io/</a>).</p>
+<p><strong>Description:</strong> Yu Lab at MGH and the Broad Institute of MIT and Harvard is seeking one or two motivated and creative Postdoctoral Fellows to join our team (<a href="https://zhiyu7.github.io/" target="_blank">https://zhiyu7.github.io/</a>).</p>
 <p>Our lab focuses on developing and applying computational and statistical methods to multi-omics and other multi-modal data (including genomics, transcriptomes, proteomics, medical imaging, clinical data, and lifestyle data) to examine the mechanisms and potential interventions for cardiovascular and other age-related diseases. We aim to develop personalized strategies for disease prevention and treatment.</p>
 
 <p><strong>Research Areas & Responsibilities:</strong> The successful candidate will use their strong computational expertise to lead projects in one or more of our key research areas, depending on interest and expertise:</p>
@@ -58,11 +58,12 @@ iframe {
 
 <p><strong>What We Offer:</strong></p>
 <ul>
-  <li>A strong commitment to mentorship and career development. The group has a robust publication record, and we are dedicated to helping you build yours. For postdocs aiming for academia, we provide active support for grant applications (e.g., K99/R00) to ensure you are a strong candidate on the job market.</li>
-  <li>Access to rich, large-scale data, in terms of both the number of cohorts and data types.</li>
-  <li>Mentorship opportunities. You will have the chance to mentor a number of talented junior students (who are really lovely to work with), helping you gain valuable mentoring experience while expanding your own  publication record.</li>
-  <li>A world-class research environment. Of course – this is Boston : )</li>
-  <li>A competitive salary compared to similar roles.</li>
+  <li>Committed Career & Research Development: We are dedicated to advancing your career. You'll receive active support to build your publication record. For postdocs aiming for academia, we provide support for grant applications (e.g., K99/R00) to ensure you become a highly competitive candidate.</li>
+  <li>Collaborative Co-Mentorship: To broaden your expertise and support network, we can offer flexible co-mentorship opportunities. For example, those with interests in Bayesian methods can be jointly mentored by Dr. Sarah Urbut.</li>
+  <li>Access to Rich, Large-Scale Data: You will work with extensive, multi-cohort datasets encompassing a wide variety of data types.</li>
+  <li>Develop Your Mentorship & Leadership Skills: You will have the opportunity to mentor talented and motivated junior students, which provide leadership experience and also lead to co-authorship.</li>
+  <li>World-Class Research Environment: Of course – this is Boston : )</li>
+  <li>Competitive Salary: We offer a competitive salary commensurate with your experience and qualifications.</li>
   <li>We welcome you to chat with our current members to learn more about the group.</li>
 </ul>
 

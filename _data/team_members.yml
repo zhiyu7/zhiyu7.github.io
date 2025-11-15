@@ -1,24 +1,24 @@
 - name: Meghana Kamineni
   photo: Meghana.jpg
-  info: Co-mentored student with Dr. Pradeep Natarajan
+  info: Co-mentored medical student with Dr. Pradeep Natarajan
   bio: >
     Meghana is a medical student at Harvard Medical School. She is working on using machine learning techniques to identify splenic features in abdominal MRIs that are associated with increased risk for coronary artery disease. She holds a bachelor's degree in Computer Science from MIT.
 
 - name: Xinyu Wang
   photo: Xinyu.jpg
-  info: Co-mentored student with Dr. Ed Giovannucci
+  info: Co-mentored graduate student with Dr. Ed Giovannucci
   bio: >
     Xinyu is currently a master's student in Department of Epidemiology, Harvard T.H. Chan School of Public Health. Her research focuses on integrating multi-omics data to explore the underlying mechanisms of cancers and cardiometabolic diseases. She is also passionate about translating epidemiological findings into clinical practice. She holds dual bachelor’s degrees in Medicine and Economics from Peking University.
 
 - name: Yixuan (Kathy) Liu
   photo: Kathy.jpg
-  info: Co-mentored student with Dr. Michael Honigberg
+  info: Co-mentored graduate student with Dr. Michael Honigberg
   bio: >
     Kathy is a master’s student in Department of Biostatistics, Computational Biology and Quantitative Genetics, Harvard T.H. Chan School of Public Health. Her research leverages multi-omics approaches to investigate proteomic profiles and methylation patterns associated with somatic mutations in clonal hematopoiesis of indeterminate potential (CHIP) and cardiovascular disease (CVD). She holds a dual degree in Molecular Bioscience, Genetics and Genomics from Duke Kunshan University and Duke University. 
 
 - name: Zhanqing (Anthea) Hua
   photo: Anthea.jpg
-  info: Co-mentored student with Dr. Vineet Raghu
+  info: Co-mentored graduate student with Dr. Vineet Raghu
   bio: >
     Zhanqing (Anthea) Hua is a Master student in Genetic Epidemiology at the Harvard School of Public Health. Her research centers on integrating deep learning methodologies with genome-wide association studies (GWAS) to advance understanding of human disease. She is committed to exploring the associations between genomic factors and disease outcomes to inform risk prediction and potential interventions. She obtained her Bachelor of Science degree in Biological Sciences from Imperial College London.
 
@@ -30,7 +30,7 @@
 
 - name: Shengxin Liang
   photo: Shengxin.jpg
-  info: Co-mentored student with Dr. Akl Fahed
+  info: Co-mentored graduate student with Dr. Akl Fahed
   bio: >
     Shengxin is currently a Master student in Pharmacoepidemiology at the Harvard School of Public Health. Her research focuses on utilizing genetic epidemiology and pharmacoepidemiology methods to investigate cardiovascular drug efficiency and safety. She holds a bachelor’s degree in biology from McGill University. In her spare time, she is interested in wildlife conservation.
 
@@ -51,3 +51,9 @@
   info: Co-mentored visiting Ph.D. student with Dr. Wenjie Ma
   bio: >
     Wenxin is currently a Ph.D. student in Biomedical Engineering at Tsinghua University. Her research focuses on leveraging large language models to predict the risk and progression of Alzheimer’s disease and related dementias. She holds a Bachelor’s degree in biomedical engineering from Northeastern University (China).
+
+- name: Antony Tan
+  photo: Antony.jpg
+  info: Graduate student
+  bio: >
+    Antony is a master’s student in Computational Biology and Quantitative Genetics at Harvard. His research applies machine learning to large-scale proteomics for enhancing interpretation and cross-platform harmonization. He is broadly interested in representation learning that links molecular data to clinical/medical outcomes. He previously developed transformer models for astronomical time-series analysis, resulting in a NeurIPS ML4PS publication, and holds a bachelor’s degree in Computer Science from the University of Toronto.
