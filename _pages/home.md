@@ -9,6 +9,8 @@ permalink: /
 
 ***We are currently recruiting one or two postdoctoral fellows, please check out the "Openings" tab [(link)](/openings/) for detailed job description.***
 
+***Graduate student recruitment is currently paused, and we will resume after May 2026.***
+
 Our research focuses on **computational modeling of human multi-omics** data to uncover the mechanisms driving **cardiovascular and other age-related diseases**, aiming to identify personalized strategies for disease prevention and treatment.
 
 Key areas of interest:
