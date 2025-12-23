@@ -36,6 +36,8 @@ iframe {
 <div class="col-md-12 col-sm-12">
 <h4>Postdoctoral Fellow</h4>
 
+<p><em>The official job posting for this position at MGH can be found <strong><a href="https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Postdoctoral-Fellow_RQ4042787" target="_blank">here</a></strong>.</em></p>
+
 <p><strong>Description:</strong> Yu Lab at MGH and the Broad Institute of MIT and Harvard is seeking one or two motivated and creative Postdoctoral Fellows to join our team (<a href="https://zhiyu7.github.io/" target="_blank">https://zhiyu7.github.io/</a>).</p>
 <p>Our lab focuses on developing and applying computational and statistical methods to multi-omics and other multi-modal data (including genomics, transcriptomes, proteomics, medical imaging, clinical data, and lifestyle data) to examine the mechanisms and potential interventions for cardiovascular and other age-related diseases. We aim to develop personalized strategies for disease prevention and treatment.</p>
 

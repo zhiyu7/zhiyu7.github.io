@@ -75,3 +75,9 @@
   info: Graduate student
   bio: >
     Linda is a master’s student in the Department of Biostatistics, Computational Biology and Quantitative Genetics, Harvard T.H. Chan School of Public Health. Her research focuses on developing and leveraging LLM and multi-omics approaches for cancer characterization. She holds a dual degree in Molecular Bioscience, Genetics and Genomics from Duke Kunshan University and Duke University.
+
+- name: Xueting (Christina) Wang
+  photo: Christina.jpg
+  info: Co-mentored graduate student with Dr. Aniruddh Patel
+  bio: >
+    Christina is a Biostatistics Master’s candidate at the Harvard T.H. Chan School of Public Health. Her research integrates machine learning with medical imaging to identify organ-specific biomarkers and quantify their relationship to disease risk. She graduated from the University of North Carolina at Chapel Hill with a Bachelor’s degree in Biostatistics and Mathematics.

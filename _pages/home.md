@@ -7,7 +7,7 @@ permalink: /
 
 ### Computational Multi-omics for Age-related Diseases
 
-***We are currently recruiting one or two postdoctoral fellows, please check out the "Openings" tab [(link)](/openings/) for detailed job description.***
+***We are currently recruiting one or two postdoctoral fellows. Please check out the official post at MGH [(link)](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Postdoctoral-Fellow_RQ4042787) or the [Openings tab](/openings/) for a detailed job description.***
 
 Our research focuses on **computational modeling of human multi-omics** data to uncover the mechanisms driving **cardiovascular and other age-related diseases**, aiming to identify personalized strategies for disease prevention and treatment.
 
