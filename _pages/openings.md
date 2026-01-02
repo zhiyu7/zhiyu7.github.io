@@ -69,7 +69,7 @@ iframe {
   <li>We welcome you to chat with our current members to learn more about the group.</li>
 </ul>
 
-<p><strong>How to Apply:</strong> Interested candidates should send the following materials to Zhi at <a href="mailto:zyu5@mgh.harvard.edu">zyu5@mgh.harvard.edu</a> or <a href="mailto:zyu@broadinstitute.org">zyu@broadinstitute.org</a></p>
+<p><strong>How to Apply:</strong> If interested, please send your CV to Zhi at <a href="mailto:zyu5@mgh.harvard.edu">zyu5@mgh.harvard.edu</a> or <a href="mailto:zyu@broadinstitute.org">zyu@broadinstitute.org</a></p>
 
 </div>
 </div>
