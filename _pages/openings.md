@@ -61,7 +61,7 @@ iframe {
 <p><strong>What We Offer:</strong></p>
 <ul>
   <li>Committed Career & Research Development: We are dedicated to advancing your career. You'll receive active support to build your publication record. For postdocs aiming for academia, we provide support for grant applications (e.g., K99/R00) to ensure you become a highly competitive candidate.</li>
-  <li>Collaborative Co-Mentorship: To broaden your expertise and support network, we can offer flexible co-mentorship opportunities. For example, those with interests in Bayesian methods can be jointly mentored by Dr. Sarah Urbut.</li>
+  <li>Collaborative Co-Mentorship: To broaden your expertise and support network, we can offer flexible co-mentorship opportunities.</li>
   <li>Access to Rich, Large-Scale Data: You will work with extensive, multi-cohort datasets encompassing a wide variety of data types.</li>
   <li>Develop Your Mentorship & Leadership Skills: You will have the opportunity to mentor talented and motivated junior students, which provide leadership experience and also lead to co-authorship.</li>
   <li>World-Class Research Environment: Of course – this is Boston : )</li>
