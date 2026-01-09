@@ -65,7 +65,7 @@ iframe {
   <li>Access to Rich, Large-Scale Data: You will work with extensive, multi-cohort datasets encompassing a wide variety of data types.</li>
   <li>Develop Your Mentorship & Leadership Skills: You will have the opportunity to mentor talented and motivated junior students, which provide leadership experience and also lead to co-authorship.</li>
   <li>World-Class Research Environment: Of course – this is Boston : )</li>
-  <li>Competitive Salary: We offer a competitive salary commensurate with your experience and qualifications.</li>
+  <li>Competitive Salary: Salary will be competitive compared to similar roles.</li>
   <li>We welcome you to chat with our current members to learn more about the group.</li>
 </ul>
 
