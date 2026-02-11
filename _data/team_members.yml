@@ -58,12 +58,6 @@
   bio: >
     Antony is a master’s student in Computational Biology and Quantitative Genetics at Harvard. His research applies machine learning to large-scale proteomics for enhancing interpretation and cross-platform harmonization. He is broadly interested in representation learning that links molecular data to clinical/medical outcomes. He previously developed transformer models for astronomical time-series analysis, resulting in a NeurIPS ML4PS publication, and holds a bachelor’s degree in Computer Science from the University of Toronto.
 
-- name: Sylvia Deng
-  photo: Sylvia.jpg
-  info: Co-mentored graduate student with Dr. Junwei Lu
-  bio: >
-    Sylvia is a first-year master’s student in Health Data Science at the Harvard T.H. Chan School of Public Health. Her research focuses on applying large language models to peptide-level omics data to gain insights into cardiac diseases. She earned her Bachelor of Science degree in Mathematics of Computation and Statistics & Data Science from the University of California, Los Angeles (UCLA).
-
 - name: Yuan Tian
   photo: Yuan.jpg
   info: Co-mentored graduate student with Dr. Junwei Lu
@@ -84,6 +78,6 @@
 
 - name: Mengze Zhao 
   photo: Mengze.jpg
-  info: Co-mentored graduate student with Dr. Vineet Raghu
+  info: Co-mentored graduate student
   bio: >
     Mengze is currently a master’s student in Health Data Science at Harvard T.H. Chan School of Public Health. His academic interests include statistical modeling and machine learning for health data, and he is particularly interested in learning how quantitative methods can be applied to real-world biomedical research. He holds dual bachelor’s degrees in Economics and Applied Mathematics from the University of Washington.
