@@ -11,15 +11,13 @@ Our research focuses on **computational modeling of human multi-omics** data to 
 
 Key areas of interest:
 
-- Age-related **clonal hematopoiesis** (CH; clonal expansions in the blood-forming system) and its **somatic-germline interplay**, with implications for managing CH-associated diseases (in collaboration with <a href="https://profiles.ucsf.edu/trevor.fidler" target="_blank">Dr. Trevor Fidler</a>).
+- **Aging-clonal hematopoiesis-associated diseases axis**: We are passionate about understanding the biology connecting aging, clonal hematopoiesis (clonal expansions in the blood-forming system), and associated diseases. We discover interventions capable of breaking or modifying the links across the three pillars.
 
-- **Omics-based** instruments for testing **causal hypotheses** in studying diseases.
+- **Omics methods development**: While we apply multi-omics data to biological questions, we actively tackle fundamental methodological challenges inherent to the data itself (e.g., discordance between proteomics platforms, omics instruments, and interpretability of large-scale proteomics).
 
-- **Disease risk prediction** using static (germline genetic) and dynamic (time-varying factors) data (in collaboration with <a href="https://www.dbei.med.upenn.edu/bio/jin-jin-0" target="_blank">Dr. Jin Jin</a>).
+- **Multi-modal medical information & machine learning**: We use deep learning for imaging (human and mouse) and LLMs to process patient information from EHR. For both areas, we further integrate genomics data to discover biological insights and advance our understanding of aging-clonal hematopoiesis-associated diseases.
 
-- Machine learning + proteomics for drug discovery (in collaboration with <a href="https://vcresearch.berkeley.edu/faculty/ahmed-alaa" target="_blank">Dr. Ahmed Alaa</a>). 
-
-- Deep learning-derived phenotypes + genetics for understanding diseases (in collaboration with <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/180872" target="_blank">Dr. Vineet Raghu</a>). 
+- In addition, we conduct polygenic risk scores and pharmacogenetic studies, and also contribute to analysis for hematological cancer clinical trials, the Somatic Mutation Across Human Tissues (SMAHT) consortium, and Bermuda Genomics.
 
 Our research is largely strengthened by the extensive human and murine datasets we have access to, and we are deeply grateful to our collaborators and cohort PIs for their trust.
 
