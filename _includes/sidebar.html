@@ -1,11 +1,10 @@
+<h4 style="margin-bottom: 1rem; margin-top: 1.5rem;">News</h4>
 
-<div class="jumbotron">
-  <h4>News</h4>
-
-  {% for article in site.data.news limit:3 %}
-  <b>{{ article.date }}</b>
-    <p>{{ article.headline }}</p>
-  {% endfor %}
-  
-  <h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5>
+{% for article in site.data.news limit:5 %}
+<div class="news-card">
+  <div class="news-date">{{ article.date }}</div>
+  <p>{{ article.headline }}</p>
 </div>
+{% endfor %}
+
+<a href="{{ site.url }}{{ site.baseurl }}/allnews.html" class="btn btn-sm btn-outline-primary" style="margin-top: 0.5rem;">All News</a>

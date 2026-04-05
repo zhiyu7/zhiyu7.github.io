@@ -1,29 +1,38 @@
-<br/>
 <section id="footer">
-  <div class="container-footer">
-    <div class="panel-footer">
-      <div class="row">
-        <div class="col-12">
+  <div class="container" style="max-width: 1100px; padding-left: 20px; padding-right: 20px;">
+    <div class="row">
+      <div class="col-md-4 mb-3">
+        <h5>{{ site.title }}</h5>
+        <p>Computational multi-omics research for cardiovascular and age-related diseases.</p>
+      </div>
+      <div class="col-md-4 mb-3">
+        <h5>Quick Links</h5>
+        <ul class="list-unstyled">
+          <li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
+          {% for pg in site.nav_pages %}
+          <li><a href="{{ site.url }}{{ site.baseurl }}/{{ pg.name }}/">{{ pg.name | capitalize }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col-md-4 mb-3">
+        <h5>Contact</h5>
+        <p>
           {% if site.contact %}
-            <h5>Contact</h5>
-            <p>
-              <strong>Office:</strong><br>
-              {% for address in site.contact.office_addresses %}
-                {{ address }}<br>
-              {% endfor %}
-              
-              <strong>Email:</strong><br> {% for email in site.contact.emails %}
-                <a href="mailto:{{ email }}">{{ email }}</a><br>
-              {% endfor %}
-            </p>
+            {% for address in site.contact.office_addresses %}
+              {{ address }}<br>
+            {% endfor %}
+            <br>
+            {% for email in site.contact.emails %}
+              <a href="mailto:{{ email }}">{{ email }}</a><br>
+            {% endfor %}
           {% endif %}
-        </div>
-        </div>
-
-      <center><p>&copy; {{ "now" | date: "%Y" }} {{ site.title | escape }}</p></center>
+        </p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; {{ "now" | date: "%Y" }} {{ site.title }}</p>
     </div>
   </div>
 </section>
 
 <script src="{{ "/assets/javascript/bootstrap/bootstrap.bundle.min.js" | relative_url }}"></script>
-

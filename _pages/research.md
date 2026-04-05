@@ -5,35 +5,6 @@ sitemap: false
 permalink: /research/
 ---
 
-<style>
-img {
-  border-radius: 10px;
-  width: 100%;  /* Make the image responsive */
-  max-width: 750px; /* Limit image size to match text width */
-  display: block;
-  margin: 20px auto; /* Center the image */
-}
-.col-md-3 {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  padding: 0px;
-  display: block;
-  overflow: hidden;
-  text-align: center;
-  display: table-cell;
-  background: white;
-  border-radius: 20px;
-  height: auto;
-}
-iframe {
-  margin: 0;
-  padding: 0;
-  width: 175px;
-  display: inline;
-  vertical-align: middle;
-}
-</style>
-
 ## Research
 
 Genetic variations underpin human phenotypic differences, including susceptibility to age-related diseases. These variations occur along two key axes: (A) The first axis involves DNA, differentiating between germline mutations, which we inherit, and somatic mutations, which are acquired as we age and localized to specific cells; (B) The second axis follows the central dogma, where changes in DNA affect RNA and subsequently lead to variations in protein levels. Together, **these omics form biological processes, and the variability at each level contributes to an individual’s unique health profile, laying the foundation for personalized medicine**, and this is what our research builds on.

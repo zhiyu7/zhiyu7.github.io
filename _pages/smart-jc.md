@@ -11,8 +11,8 @@ Co-organized with <a href="https://nrockweiler.github.io/" target="_blank">Nicol
 
 Please check out [http://smartjc.broadinstitute.org/](http://smartjc.broadinstitute.org/) for more details. 
 
-**Non-science note**: since I’ve been ordering food for our lunches and happy hours, here are a few I've found pretty good—lunch: Gifu Teriyaki & Sushi, Pho Viet, Flavor Boom!, OliToki, Felipe’s Taqueria, India Kitchen; catering: Tatte.
+**Non-science note**: since I’ve been ordering food for our lunches and happy hours, here are a few I've found pretty good—lunch: Big Fun Claypot, Gifu Teriyaki & Sushi, Pho Viet, Flavor Boom!, OliToki, India Kitchen; catering: Tatte.
 
 <br>
-![SMART JC Group Photo](/images/smartjc.png){: .img-fluid }
+<img src="/images/smartjc.png" alt="SMART JC Group Photo" style="max-width: 500px; width: 100%; display: block; margin: 0 auto;" />
 

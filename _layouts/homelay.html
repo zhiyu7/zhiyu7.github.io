@@ -2,10 +2,19 @@
 layout: default
 ---
 
-  <div id="homeid" class="col-sm-7 col-xs-12">
-	{{ content }}
+<div class="col-12 px-0">
+  <div class="hero-section" style="background-image: url('{{ site.url }}{{ site.baseurl }}/images/banner.jpg')">
+    <div class="hero-content">
+      <h1>{{ site.title }}</h1>
+      <p>Computational Multi-omics for Age-related Diseases</p>
+    </div>
   </div>
-  
-  <div id="newsid" class="col-sm-5 col-xs-12" >
-	{% include sidebar.html %}
-  </div>
+</div>
+
+<div id="homeid" class="col-sm-7 col-xs-12">
+  {{ content }}
+</div>
+
+<div id="newsid" class="col-sm-5 col-xs-12">
+  {% include sidebar.html %}
+</div>
