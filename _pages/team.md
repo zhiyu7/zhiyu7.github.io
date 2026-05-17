@@ -41,7 +41,24 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br></i>
 
-  <!-- Use the 'Current' field for alumni instead of 'Bio' -->
+  <p><strong>Current:</strong> {{ member.current_degree }}</p>
+</div>
+</div>
+</div>
+{% endfor %}
+
+## Alumni
+
+{% for member in site.data.alumni_members %}
+<div class='jumbotron'>
+<div class="row">
+<div class="col-sm-2">
+<img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
+</div>
+<div class="col-sm-10 col-xs-12">
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br></i>
+
   <p><strong>Current:</strong> {{ member.current_degree }}</p>
 </div>
 </div>
