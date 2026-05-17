@@ -6,7 +6,7 @@
 
 - name: Xinyu Wang
   photo: Xinyu.jpg
-  info: Co-mentored graduate student with Dr. Ed Giovannucci (master's thesis co-advisor)
+  info: Co-mentored graduate student with Dr. Ed Giovannucci (master's thesis advisor)
   bio: >
     Xinyu is currently a master's student in Department of Epidemiology, Harvard T.H. Chan School of Public Health. Her research focuses on integrating multi-omics data to explore the underlying mechanisms of cancers and cardiometabolic diseases. She is also passionate about translating epidemiological findings into clinical practice. She holds dual bachelor’s degrees in Medicine and Economics from Peking University.
 
@@ -80,4 +80,10 @@
   photo: Qiayi.jpg
   info: Graduate student
   bio: >
-    Qiayi is a Master’s student in the CBQG program  at Harvard T.H. Chan School of Public Health. With a computational background, she is curious about the mechanisms underlying genetics, proteomics, and human biological systems. She is interested in figuring out the logic of gene regulation, protein interactions, and cellular dynamics, and translating these biological principles into computational frameworks. 
+    Qiayi is a Master’s student in the CBQG program  at Harvard T.H. Chan School of Public Health. With a computational background, she is curious about the mechanisms underlying genetics, proteomics, and human biological systems. She is interested in figuring out the logic of gene regulation, protein interactions, and cellular dynamics, and translating these biological principles into computational frameworks.
+
+- name: Yushu Huang
+  photo: Yushu.jpg
+  info: Visiting Ph.D. student
+  bio: >
+    Yushu is currently a Ph.D. student in Big Data Health Science at Zhejiang University. Her research focuses on leveraging multimodal data to estimate biological aging, with particular interests in its determinants and subsequent clinical outcomes.
