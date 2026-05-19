@@ -17,7 +17,7 @@ Key areas of interest:
 
 - **Omics methods development**: While we apply multi-omics data to biological questions, we actively tackle fundamental methodological challenges inherent to the data itself (e.g., discordance between proteomics platforms, omics instruments, etc.).
 
-- In addition, we conduct polygenic risk scores and pharmacogenetic studies, and also contribute to analysis for microbiome & hematological cancer clinical trials, the Somatic Mutation Across Human Tissues (SMAHT) consortium, and Bermuda Genomics.
+- In addition, we conduct polygenic risk scores and pharmacogenetic studies, and also contribute to analysis for microbiome & hematological cancer clinical trials, the Somatic Mutation across Human Tissues (SMaHT) consortium, and Bermuda Genomics.
 
 Our research is largely strengthened by the extensive human and murine datasets we have access to, and we are deeply grateful to our collaborators and cohort PIs for their trust.
 
