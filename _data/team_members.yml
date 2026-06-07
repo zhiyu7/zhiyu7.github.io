@@ -16,12 +16,6 @@
   bio: >
     Kathy is a master’s student in Department of Biostatistics, Computational Biology and Quantitative Genetics, Harvard T.H. Chan School of Public Health. Her research leverages multi-omics approaches to investigate proteomic profiles and methylation patterns associated with somatic mutations in clonal hematopoiesis of indeterminate potential (CHIP) and cardiovascular disease (CVD). She holds a dual degree in Molecular Bioscience, Genetics and Genomics from Duke Kunshan University and Duke University. 
 
-- name: Zhanqing (Anthea) Hua
-  photo: Anthea.jpg
-  info: Co-mentored graduate student with Dr. Vineet Raghu (master's thesis advisor)
-  bio: >
-    Zhanqing (Anthea) Hua is a Master student in Genetic Epidemiology at the Harvard School of Public Health. Her research centers on integrating deep learning methodologies with genome-wide association studies (GWAS) to advance understanding of human disease. She is committed to exploring the associations between genomic factors and disease outcomes to inform risk prediction and potential interventions. She obtained her Bachelor of Science degree in Biological Sciences from Imperial College London.
-
 - name: Linke Li
   photo: Linke.jpg
   info: Computational associate jointly with Dr. Michael Honigberg
@@ -51,12 +45,6 @@
   info: Graduate student (master's thesis advisor)
   bio: >
     Antony is a master’s student in Computational Biology and Quantitative Genetics at Harvard. His research applies machine learning to large-scale proteomics for enhancing interpretation and cross-platform harmonization. He is broadly interested in representation learning that links molecular data to clinical/medical outcomes. He previously developed transformer models for astronomical time-series analysis, resulting in a NeurIPS ML4PS publication, and holds a bachelor’s degree in Computer Science from the University of Toronto.
-
-- name: Yuan Tian
-  photo: Yuan.jpg
-  info: Co-mentored graduate student with Dr. Junwei Lu
-  bio: >
-    Yuan is currently a master’s student in Biostatistics at the Harvard T.H. Chan School of Public Health. His research focuses on applying large language models to the analysis and interpretation of clinical data. Broadly, he is interested in leveraging deep learning–based approaches to integrate and analyze complex biomedical and clinical datasets. He holds a Bachelor’s degree in Biology and Biochemistry from Oberlin College.
 
 - name: Cuiqiyun (Linda) Yang
   photo: Linda.jpg
