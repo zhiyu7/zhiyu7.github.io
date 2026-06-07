@@ -60,6 +60,7 @@ permalink: /team/
   <i>{{ member.info }}<br></i>
 
   <p><strong>Current:</strong> {{ member.current_degree }}</p>
+  {% if member.past_degree %}<p><strong>Past:</strong> {{ member.past_degree }}</p>{% endif %}
 </div>
 </div>
 </div>
