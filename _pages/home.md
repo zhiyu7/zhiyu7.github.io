@@ -5,6 +5,10 @@ sitemap: false
 permalink: /
 ---
 
+<div style="border-left: 4px solid #d9534f; background: #fff8e1; padding: 0.8rem 1rem; margin-bottom: 1.5rem; border-radius: 4px;">
+<strong>📢 We are actively recruiting a Computational Associate</strong> to join the Yu and Small Labs at Mass General Brigham and the Broad Institute of MIT and Harvard. Please check out the details at <a href="{{ site.baseurl }}/openings/"><strong>Openings</strong></a>.
+</div>
+
 ### About Our Research
 
 Our research focuses on **computational modeling of human multi-omics** data to uncover the mechanisms driving **cardiovascular and other age-related diseases**, aiming to identify personalized strategies for disease prevention and treatment.

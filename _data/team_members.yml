@@ -22,12 +22,6 @@
   bio: >
     Linke Li holds a Master's degree in Biostatistics from Duke University. Her research focuses on integrating deep learning methodologies into statistical genetics to enhance disease risk prediction and identify at-risk populations. She is interested in comparing the disease prediction capabilities of deep learning methods with traditional approaches like genome-wide association studies (GWAS) and polygenic risk scores (PRS). By identifying novel genetic variations, she aims to improve risk prediction models and contribute to preventive healthcare for disease.
 
-- name: Shengxin Liang
-  photo: Shengxin.jpg
-  info: Co-mentored graduate student with Dr. Akl Fahed (master's thesis advisor)
-  bio: >
-    Shengxin is currently a Master student in Pharmacoepidemiology at the Harvard School of Public Health. Her research focuses on utilizing genetic epidemiology and pharmacoepidemiology methods to investigate cardiovascular drug efficiency and safety. She holds a bachelor’s degree in biology from McGill University. In her spare time, she is interested in wildlife conservation.
-
 - name: Yiru "Angelina" Jin
   photo: Yiru.jpg
   info: Co-mentored undergrad student with Dr. Vineet Raghu
@@ -75,3 +69,9 @@
   info: Visiting Ph.D. student
   bio: >
     Yushu is currently a Ph.D. student in Big Data Health Science at Zhejiang University. Her research focuses on leveraging multimodal data to estimate biological aging, with particular interests in its determinants and subsequent clinical outcomes.
+
+- name: Haodong Tian 
+  photo: HT.jpg
+  info: Co-mentored postdoctoral fellow with Dr. Pradeep Natarajan and Dr. Jordan Smoller
+  bio: >
+    Haodong is a postdoctoral researcher at Massachusetts General Hospital and the Broad Institute. His research focuses on developing and applying statistical and computational methods, particularly in genetic causal inference, and integrating large-scale, multi-source data to better understand disease mechanisms and advance precision medicine and drug discovery. He holds a PhD in Biostatistics from the University of Cambridge.
