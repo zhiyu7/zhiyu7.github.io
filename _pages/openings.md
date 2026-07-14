@@ -34,7 +34,7 @@ permalink: /openings/
 
 <p><strong>What We Offer:</strong> This role is ideal for post-master's students seeking research experience and publications before applying to PhD programs.</p>
 <ul>
-  <li><strong>Career Development:</strong> Active support to build your publication record and PhD application profile. We have a very strong track record with master's-level trainees - recent alumni have gone on to PhD programs at Harvard (×2), Cambridge, and Duke (×2), and to job positions at Fireworks AI and MGH.</li>
+  <li><strong>Career Development:</strong> Active support to build your publication record and PhD application profile. We have a very strong track record with master's-level trainees - recent alumni have gone on to PhD programs at Harvard (×2), Cambridge, and Duke (×2).</li>
   <li><strong>Rich, Large-Scale Data:</strong> Extensive multi-cohort datasets across many data types.</li>
   <li><strong>Competitive Salary:</strong> Salary will be competitive compared to similar roles.</li>
 </ul>

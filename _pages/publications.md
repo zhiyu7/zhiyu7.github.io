@@ -23,7 +23,8 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 
 <div class="jumbotron">
 
-  80. Sui Y, Kany S, Khurshid S, Supriami K, Rämö J, Jurgens S, Enzan N, Choi SH, **Yu Z**, **Li L**, Truong B, Chen X, Kim MS, Shim I, Twerenbold R, Pirruccello J, Natarajan P, Ellinor P, Fahed A. Genetically Mediated Differences in LDL Cholesterol and Risk of Venous Thromboembolism. <i>J Am Coll Cardiol</i>. Accepted.
+  80. Yalcinkaya M, Hsu CC, **Li L**, Wang R, Ngai D, Sánchez Vela P, Fernandez-Maestre I, Olszewska M, Liu W, Chen M, Abramowicz S, Xiao T, Papapetrou E, Wang N, Levine R, **Yu Z**, Tabas I, Tall A. Impaired glycolysis leads to defective efferocytosis and impaired plaque resolution in Tet2 clonal hematopoiesis. Circulation. Accepted.
+  79. Sui Y, Kany S, Khurshid S, Supriami K, Rämö J, Jurgens S, Enzan N, Choi SH, **Yu Z**, **Li L**, Truong B, Chen X, Kim MS, Shim I, Twerenbold R, Pirruccello J, Natarajan P, Ellinor P, Fahed A. Genetically Mediated Differences in LDL Cholesterol and Risk of Venous Thromboembolism. <i>J Am Coll Cardiol</i>. Accepted.
   78. **Li L**, Zhang Y, Truong B, **Yu Z**, Gupta RM, Tian H, Natarajan P, Haas DM, Liu N, Honigberg MC. Endothelial susceptibility-related genetic variants and hypertensive disorders of pregnancy. <i>Arterioscler Thromb Vasc Biol</i>. Accepted. 
   77. Kapur R\*, **Li L\***, Kanumuri R, Padam KSR, Ramdas B, Pasala C, Chiosis G, Palam LR, Kumar R, Koyama S, Natarajan P, Haneline LS, **Yu Z\***, Pasupuleti SK\*. Targeting GLP1R and IL17A inflammatory metabolic axis suppresses obesity induced leukemia driven by oncogenic PTPN11 mutations. <i>J Clin Invest</i>. Accepted. 
   76. **Kamineni M**, Raghu V, **Z Hua**, H Tian, Truong B, Alaa A, Schuermans A, Friedman S, Reeder C, Bhattacharya R, Libby P, Ellinor PT, Maddah M, Philippakis A, Hornsby W, **Yu Z\***, Natarajan P\*. Deep learning-derived splenic radiomics, genomics, and coronary artery disease. <i>Sci Transl Med</i>. Accepted in principle. 
