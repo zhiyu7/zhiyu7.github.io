@@ -23,6 +23,8 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 
 <div class="jumbotron">
 
+  82. Chang A, **Li L**, Ezzat D, Flynn S, De Moor N, Hemeryck J, Mohammadnia N, Schuermans A, **Yu Z**, **Liu Y**, Uddin MM, Natarajan P, Honigberg MC. Clonal haematopoiesis and cardiovascular-kidney-metabolic syndrome: a cohort study. <i>Eur Heart J</i>. Accepted.
+  81. **Liu Y**, **Li L**, **Liang S**, **Tan Y**, Jowell A, Bhattacharya R, Hornsby W, Uddin MM, Niroula A, Natarajan P, Honigberg MC\*, **Yu Z\***. Association of Life's Essential 8 with Clonal Hematopoiesis and Coronary Artery Disease. <i>JACC CardioOncol</i>. Accepted in principle.
   80. Yalcinkaya M, Hsu CC, **Li L**, Wang R, Ngai D, Sánchez Vela P, Fernandez-Maestre I, Olszewska M, Liu W, Chen M, Abramowicz S, Xiao T, Papapetrou E, Wang N, Levine R, **Yu Z**, Tabas I, Tall A. Impaired glycolysis leads to defective efferocytosis and impaired plaque resolution in Tet2 clonal hematopoiesis. Circulation. Accepted.
   79. Sui Y, Kany S, Khurshid S, Supriami K, Rämö J, Jurgens S, Enzan N, Choi SH, **Yu Z**, **Li L**, Truong B, Chen X, Kim MS, Shim I, Twerenbold R, Pirruccello J, Natarajan P, Ellinor P, Fahed A. Genetically Mediated Differences in LDL Cholesterol and Risk of Venous Thromboembolism. <i>J Am Coll Cardiol</i>. Accepted.
   78. **Li L**, Zhang Y, Truong B, **Yu Z**, Gupta RM, Tian H, Natarajan P, Haas DM, Liu N, Honigberg MC. Endothelial susceptibility-related genetic variants and hypertensive disorders of pregnancy. <i>Arterioscler Thromb Vasc Biol</i>. Accepted. 
