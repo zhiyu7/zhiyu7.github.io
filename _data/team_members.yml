@@ -28,12 +28,6 @@
   bio: >
     Angelina is a sophomore at Boston University majoring in Biochemistry and Molecular Biology on a pre-dental track. She is currently studying the effects of environmental and nutritional stress on the mitochondrial pathway. Moving forward, she hopes to expand her knowledge of computational biology and explore machine learning techniques to enhance data analysis in biological research.
 
-- name: Cyril François
-  photo: Cyril.jpg
-  info: Visiting medical student
-  bio: >
-    Cyril is a first-year master’s student in Medicine at KU Leuven University in Belgium. His research focuses on integrating machine learning with multi-omics data to study clonal hematopoiesis of indeterminate potential (CHIP) and its associations with disease outcomes, such as cardiovascular disease. He aims to strengthen his computational research expertise and contribute to future advances in precision medicine. He completed his Bachelor of Medicine at KU Leuven.
-
 - name: Antony Tan
   photo: Antony.jpg
   info: Graduate student (master's thesis advisor)
@@ -74,10 +68,24 @@
   photo: HT.jpg
   info: Co-mentored postdoctoral fellow with Dr. Pradeep Natarajan and Dr. Jordan Smoller
   bio: >
-    Haodong is a postdoctoral researcher at Massachusetts General Hospital and the Broad Institute. His research focuses on developing and applying statistical and computational methods, particularly in genetic causal inference, and integrating large-scale, multi-source data to better understand disease mechanisms and advance precision medicine and drug discovery. He holds a PhD in Biostatistics from the University of Cambridge.
+    Haodong is a postdoctoral researcher at the Broad Institute. His research focuses on developing and applying statistical and computational methods, particularly in genetic causal inference, and integrating large-scale, multi-source data to better understand disease mechanisms and advance precision medicine and drug discovery. He holds a PhD in Biostatistics from the University of Cambridge.
 
 - name: Mengyu Zhang 
   photo: Mengyu.jpg
   info: Postdoctoral fellow 
   bio: >
     Mengyu is a Research Fellow at Massachusetts General Hospital. Her research focuses on developing statistical and computational methods for large-scale genetic association studies, with an emphasis on improving efficiency and accuracy in analyses of related individuals and diverse populations, and integrating multi-omics data to better understand the biological basis of complex diseases. She holds a PhD in Biostatistics from The University of Texas Health Science Center at Houston (UTHealth Houston) School of Public Health.
+
+- name: Md Mesbah Uddin 
+  photo: Mesbah.jpg
+  info: Research scientist jointly with Dr. Michael Honigberg (previously Dr. Pradeep Natarajan)
+  bio: >
+    Mesbah is currently a research scientist at the Broad Institute. He is working on identifying clonal hematopoiesis (CH) in individuals, understanding the role of CH in epigenetic changes, and illustrating genetic determinants of CH. He is also contributing to the data production and analysis of the Somatic Mosaicism Across Human Tissues (SMaHT) consortium. His key research contributions in the lab include several co-authored publications (ORCID). Before joining the lab, Mesbah completed his PhD at Aarhus University (Denmark) and AgroParisTech (France), MS at King Abdulaziz University (Jeddah, Saudi Arabia), and BS  at Khulna University (Khulna, Bangladesh).
+
+- name: Yuxuan Wang
+  photo: Yuxuan.jpg
+  info: Visiting scientist (primary position: postdoctoral fellow at Amgen mentored by Dr. Pradeep Natarajan)
+  bio: >
+    Yuxuan is a visiting scientist at the Broad Institute. He aims to leverage advanced statistical and computational frameworks to investigate the genetic architecture of human diseases. Key research contributions include developing novel statistical methods for assessing the replicability of pleiotropic loci and leading large-scale genetic analyses for the Global Lipids Genetics Consortium and the TOPMed program. Yuxuan currently focuses on integrating human genetics with functional genomics approaches such as Perturb-Seq to connect evidence with cellular phenotypes and biological mechanisms. He completed his Ph.D. degree in Biostatistics at Boston University. 
+    
+    
