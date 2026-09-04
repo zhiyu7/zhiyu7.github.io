@@ -23,6 +23,8 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 
 <div class="jumbotron">
 
+  86. **The Somatic Mosaicism across Human Tissues Network (SMaHT)**. Comprehensive benchmarking of somatic mutation detection by the SMaHT Network. <i>Cell</i>. Accepted in principle.
+  85. Ezzat D, Pabon MA, **Li L**, Chang A, De Moor N, **Yu Z**, Cho SMJ, Natarajan P, Spracklen C, LeBlanc ES, Eaton CB, LaMonte MJ, Stefanick ML, Manson JE, Parikh N, Reiner AP, Roh JD, Soria-Contreras DC, Hoshi RA, Mora S, Demler OV, Powe CE, Honigberg MC. History of Hypertensive Disorders of Pregnancy and Cardiovascular-Kidney-Metabolic Syndrome. <i>Hypertension</i>. Accepted.
   84. Fewings E, **Yu Z**, Gutierrez J, Truong B, Fiziev P, McRae J, Schwartzentruber J, Bick A, Natarajan P, Lareau C, Ulirsch J, Farh K. Clonal haematopoiesis subtypes confer dose-dependent risk of serious bacterial infection. <i>Nat Commun</i>. Accepted.
   83. **Liang S\***, Kim MS\*, Sui Y, **Tan Y**, **Li L**, Cho SMJ, Koyama S, **Liu Y**, Paruchuri K, Chan A, Honigberg MC, Natarajan P, Chatterjee N, Fahed AC\*, **Yu Z\***. Evaluating individual level performance of polygenic risk scores using early onset high genetic risk coronary artery disease as a benchmark. <i>Nat Commun</i>. Accepted in principle.
   82. Chang A, **Li L**, Ezzat D, Flynn S, De Moor N, Hemeryck J, Mohammadnia N, Schuermans A, **Yu Z**, **Liu Y**, **Uddin MM**, Natarajan P, Honigberg MC. Clonal haematopoiesis and cardiovascular-kidney-metabolic syndrome: a cohort study. <i>Eur Heart J</i>. Accepted.
