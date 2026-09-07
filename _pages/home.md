@@ -6,7 +6,7 @@ permalink: /
 ---
 
 ### About Our Research
-Our research focuses on **computational modeling of human multi-omics** data, integrated with other modalities such as **imaging and EHR**, to uncover the mechanisms driving **cardiovascular and other age-related diseases**.
+Our research focuses on **computational modeling of human multi-omics** data, integrated with other modalities such as **medical imaging and EHR data**, to uncover the mechanisms driving **cardiovascular and other age-related diseases**.
 
 Key areas of interest:
 
