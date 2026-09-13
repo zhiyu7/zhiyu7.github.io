@@ -100,7 +100,7 @@ permalink: /pi/  # Change from /about/ to /pi/
 
 <div class="jumbotron">
   <h4>Thanks</h4>
-  <div style="display:flex; align-items:center; justify-content:center; flex-wrap:nowrap; gap:clamp(12px, 4vw, 40px); margin:0 auto;">
+  <div markdown="0" style="display:flex; align-items:center; justify-content:center; flex-wrap:nowrap; gap:clamp(12px, 4vw, 40px); margin:0 auto;">
   {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank" style="display:flex; align-items:center; justify-content:center; flex:1 1 0; min-width:0; max-width:220px;"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}" style="display:block; width:auto; height:auto; max-height:80px; max-width:100%; margin:0;"/></a>{% endfor %}
   </div>
 </div>
