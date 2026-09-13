@@ -7,9 +7,31 @@ permalink: /team/
 
 ## Team
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/Lab_2025.JPG" alt="Lab Group Photo 2025" style="max-width: 750px; width: 100%; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
-  <p style="color: #888; font-size: 0.9rem; margin-top: 0.5rem;">Lab retreat, 2025</p>
+<div markdown="0" id="teamPhotoCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000" data-bs-pause="hover" data-bs-touch="true" style="max-width:750px; margin:0 auto 2rem;">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#teamPhotoCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Lab photo 1"></button>
+    <button type="button" data-bs-target="#teamPhotoCarousel" data-bs-slide-to="1" aria-label="Lab photo 2"></button>
+  </div>
+  <div class="carousel-inner" style="border-radius:12px; box-shadow:0 4px 16px rgba(0,0,0,0.12); overflow:hidden;">
+    <div class="carousel-item active">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/Lab_2025.JPG" class="d-block w-100" alt="Lab members at the 2025 retreat" style="width:100%; aspect-ratio:4 / 3; object-fit:cover; margin:0; border-radius:0;" />
+      <div class="carousel-caption" style="left:50%; right:auto; bottom:1rem; transform:translateX(-50%); width:max-content; max-width:calc(100% - 4rem); padding:0.35rem 0.8rem; background:rgba(0,0,0,0.58); border-radius:6px;">
+        <p style="margin:0; color:#fff; font-size:0.9rem;">Lab retreat, 2025</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/Lab_2026.jpg" class="d-block w-100" alt="Lab members during a presentation in 2026" style="width:100%; aspect-ratio:4 / 3; object-fit:cover; margin:0; border-radius:0;" />
+      <div class="carousel-caption" style="left:50%; right:auto; bottom:1rem; transform:translateX(-50%); width:max-content; max-width:calc(100% - 4rem); padding:0.35rem 0.8rem; background:rgba(0,0,0,0.58); border-radius:6px;">
+        <p style="margin:0; color:#fff; font-size:0.9rem;">Lab meeting, 2026</p>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#teamPhotoCarousel" data-bs-slide="prev" aria-label="Previous lab photo">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#teamPhotoCarousel" data-bs-slide="next" aria-label="Next lab photo">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+  </button>
 </div>
 
 {% for member in site.data.team_members %}
@@ -65,4 +87,3 @@ permalink: /team/
 </div>
 </div>
 {% endfor %}
-
