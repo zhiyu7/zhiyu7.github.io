@@ -1,8 +1,10 @@
 - image: NHGRI.png
   url: https://www.genome.gov/
+  scale: 1.12
 - image: Leducq.png
   url: https://www.fondationleducq.org/network/clonal-hematopoiesis-and-atherosclerosis/
 - image: nhlbi.jpg
   url: https://www.nhlbi.nih.gov/
+  scale: 1.12
 - image: SMaHT.png
   url: https://smaht.org/
