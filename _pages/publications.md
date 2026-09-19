@@ -15,76 +15,106 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
     margin-bottom:30px;
 }
 
-.publication-intro {
-    margin: 18px 0 14px;
-    color: #555;
+.publication-filter {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    margin: 22px 0 26px;
 }
 
-.publication-highlights {
-    margin: 0 0 34px;
+.publication-filter-label {
+    font-weight: 600;
+    margin-right: 4px;
 }
 
-.publication-highlight {
+.publication-filter button {
     background: #fff;
-    border-left: 4px solid #007f86;
-    padding: 14px 18px 10px;
-    margin: 12px 0;
+    border: 1px solid #d4d9dc;
+    border-radius: 18px;
+    color: #343a40;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 1.3;
+    padding: 7px 12px;
+    transition: background-color .15s ease, border-color .15s ease;
 }
 
-.publication-highlight h3 {
-    font-size: 20px;
-    margin: 0 0 8px;
+.publication-filter button:hover,
+.publication-filter button:focus {
+    background: #f3f6f6;
+    border-color: #8b999c;
 }
 
-.publication-highlight ul {
-    margin: 0;
-    padding-left: 20px;
+.publication-filter button.active {
+    background: #e8f2f2;
+    border-color: #007f86;
+    color: #005f64;
+    font-weight: 600;
 }
 
-.publication-highlight li {
-    margin-bottom: 7px;
+.publication-filter-count {
+    color: #6c757d;
+    font-size: 12px;
+}
+
+.publication-tags {
+    display: inline-flex;
+    gap: 4px;
+    margin-right: 8px;
+    vertical-align: 1px;
+}
+
+.publication-tag,
+.filter-square {
+    border-radius: 2px;
+    display: inline-block;
+    height: 11px;
+    width: 11px;
+}
+
+.filter-square {
+    margin-right: 6px;
+}
+
+.category-somatic { background: #b7525c; }
+.category-multimodal { background: #d3a23a; }
+.category-omics { background: #4c78a8; }
+.category-clinical { background: #70877d; }
+
+.publication-list li,
+.preprint-list li {
+    margin-bottom: 8px;
+}
+
+.publication-list li[hidden],
+.preprint-list li[hidden] {
+    display: none;
+}
+
+@media (max-width: 767px) {
+    .publication-filter {
+        align-items: flex-start;
+        flex-direction: column;
+    }
 }
 </style>
 
 *equal contribution (co-first or co-last authorship); [full list of publications](https://scholar.google.com/citations?hl=en&user=gd04NQ8AAAAJ&view_op=list_works&sortby=pubdate)
 
-## Selected highlights
-
-<p class="publication-intro">A short thematic guide to representative work. Complete medical-style citations are listed below.</p>
-
-<div class="publication-highlights" markdown="0">
-<section class="publication-highlight">
-<h3>Aging, somatic mosaicism, and disease</h3>
-<ul>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/38548833/" target="_blank">Genetic variation across and within individuals</a>. <i>Nat Rev Genet</i>, 2024.</li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/40604182/" target="_blank">The Somatic Mosaicism across Human Tissues Network</a>. <i>Nature</i>, 2025.</li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/41309676/" target="_blank">Human plasma proteomic profile of clonal hematopoiesis</a>. <i>Nat Commun</i>, 2025.</li>
-</ul>
-</section>
-
-<section class="publication-highlight">
-<h3>Multimodal phenotyping and machine learning</h3>
-<ul>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/42715348/" target="_blank">Machine learning–driven spleen imaging and genomics uncover a splenic connection to coronary artery disease</a>. <i>Sci Transl Med</i>, 2026.</li>
-<li><a href="https://www.medrxiv.org/content/10.64898/2026.05.19.26353617v1" target="_blank">Genetic architecture of high-dimensional liver radiomic phenotypes and their role in common metabolic diseases</a>. <i>medRxiv</i>, 2026.</li>
-<li>Machine learning for sudden cardiac death prediction in the Atherosclerosis Risk in Communities Study. <i>medRxiv</i>, 2022.</li>
-</ul>
-</section>
-
-<section class="publication-highlight">
-<h3>Omics and statistical methods</h3>
-<ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.05.05.723059v1" target="_blank">Machine learning cross-platform proteomic imputation enables protein quality scoring and replication of epidemiological associations</a>. <i>bioRxiv</i>, 2026.</li>
-<li><a href="https://www.medrxiv.org/content/10.64898/2026.04.16.26350801v1" target="_blank">Evaluating individual-level performance of polygenic risk scores using early-onset high-genetic-risk coronary artery disease as a benchmark</a>. <i>Nat Commun</i>, accepted in principle.</li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/38459704/" target="_blank">Mendelian randomization analysis using multiple biomarkers of an underlying common exposure</a>. <i>Biostatistics</i>, 2024.</li>
-</ul>
-</section>
+<div class="publication-filter" role="group" aria-label="Filter publications by research area" markdown="0">
+<span class="publication-filter-label">Filter by research area:</span>
+<button type="button" class="active" data-filter="all" aria-pressed="true">All <span class="publication-filter-count"></span></button>
+<button type="button" data-filter="somatic" aria-pressed="false"><span class="filter-square category-somatic"></span>Aging &amp; somatic mosaicism <span class="publication-filter-count"></span></button>
+<button type="button" data-filter="multimodal" aria-pressed="false"><span class="filter-square category-multimodal"></span>Multimodal phenotyping &amp; ML <span class="publication-filter-count"></span></button>
+<button type="button" data-filter="omics" aria-pressed="false"><span class="filter-square category-omics"></span>Omics &amp; statistical methods <span class="publication-filter-count"></span></button>
+<button type="button" data-filter="clinical" aria-pressed="false"><span class="filter-square category-clinical"></span>Clinical &amp; population studies <span class="publication-filter-count"></span></button>
 </div>
 
 ## Publications
 <!-- Manually list your publications below -->
 
-<div class="jumbotron">
+<div class="jumbotron publication-list">
 
   86. **The Somatic Mosaicism across Human Tissues Network (SMaHT)**. Comprehensive benchmarking of somatic mutation detection by the SMaHT Network. <i>Cell</i>. Accepted in principle.
   85. Ezzat D, Pabon MA, **Li L**, Chang A, De Moor N, **Yu Z**, Cho SMJ, Natarajan P, Spracklen C, LeBlanc ES, Eaton CB, LaMonte MJ, Stefanick ML, Manson JE, Parikh N, Reiner AP, Roh JD, Soria-Contreras DC, Hoshi RA, Mora S, Demler OV, Powe CE, Honigberg MC. History of Hypertensive Disorders of Pregnancy and Cardiovascular-Kidney-Metabolic Syndrome. <i>Hypertension</i>. Accepted.
@@ -178,7 +208,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 
 
 ## Preprints
-<div class="jumbotron">
+<div class="jumbotron preprint-list">
 
 8. **The Somatic Mosaicism across Human Tissues Network (SMaHT)**. Integrated map of somatic mosaicism across human tissues in 25 individuals. <i>bioRxiv</i>. 2026 Sep. [<a href="https://doi.org/10.64898/2026.09.01.748636" target="_blank">link</a>]
 7. Palmer DS, Hill B, Hodgson S, Joeloo M, Kalantzis G, Kousathanas A, Koyama S, Lu W, Namba S, Rodriguez ZB, Shortt JAJ, Sonehara K, Vartanian N, Vy HMT, Wade IA, White SL, Baya NA, Chami N, Do R, Estrada K, Finer S, Genovese G, Guez J, Itan Y, Kanai M, Lassen FH, Matsuda K, Moutsianas L, Peloso GM, Palta P, Rader DJ, Rendon A, Rocheleau G, Sadeghi-Alavijeh O, Selvaraj MS, Smit RAJ, Wang D, Wigdor EM, **Yu Z**, Colorado Center for Personalized Medicine, Estonian Biobank Research Team, Genes & Health Industry Consortium, Genes & Health Research Team, Penn Medicine BioBank, BioBank Japan Project, Gignoux CR, Heyne H, Loos RJF, Martin HC, Milani L, Natarajan P, Okada Y, Pozdeyev N. The Biobank Rare Variant consortium powers the discovery of rare genetic associations through global collaboration. <i>medRxiv</i>. 2026 May.
@@ -189,3 +219,88 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 2. Kim MS, Park S, Kim JH, Myung W, Song M, Do R, Nho K, Kim E, Hwang S, **Yu Z**, Natarajan P, Kim HJ, Son HJ, Park WY, Sui Y, Fahed AC, Ellinor PT, Ali M, Gong K, Cruchaga C, Yon DK, Seo J, Shin JY, Jo DG, Won HH. ACE inhibition increases Alzheimer's disease risk by promoting tau phosphorylation. <i>medRxiv</i>. 2025 Aug. [<a href="https://doi.org/10.1101/2025.08.11.25333412" target="_blank">link</a>]
 1. **Yu Z**, Wongvibulsin S, Daya NR, Zhou L, Matsushita K, Natarajan P, Coresh J, Zeger SL. Machine Learning for Sudden Cardiac Death Prediction in the Atherosclerosis Risk in Communities Study. <i>medRxiv</i>. 2022 January.
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var categories = {
+    somatic: {
+      label: 'Aging and somatic mosaicism',
+      keywords: ['clonal hematopoiesis', 'clonal haematopoiesis', 'somatic', 'mosaicism', 'tet2', 'jak2 v617f', 'ppm1d', 'leukemia', 'mutation-driven']
+    },
+    multimodal: {
+      label: 'Multimodal phenotyping and machine learning',
+      keywords: ['machine learning', 'deep learning', 'radiomic', 'imaging', 'retina', 'microvasculature', 'phenome-derived']
+    },
+    omics: {
+      label: 'Omics and statistical methods',
+      keywords: ['proteom', 'protein', 'genom', 'exome', 'genetic', 'polygenic', 'mendelian randomization', 'rare variant', 'sequencing', 'epigen', 'methylation', 'metabolom', 'biomarker', 'aptamer', 'loci', 'ancestry', 'benchmarking', 'statistical framework', 'doubly robust']
+    },
+    clinical: {
+      label: 'Clinical and population studies',
+      keywords: []
+    }
+  };
+
+  var items = Array.prototype.slice.call(document.querySelectorAll('.publication-list li, .preprint-list li'));
+
+  items.forEach(function (item) {
+    var journal = item.querySelector('i');
+    var citationLead = item.textContent;
+    if (journal) {
+      var titleRange = document.createRange();
+      titleRange.setStart(item, 0);
+      titleRange.setEndBefore(journal);
+      citationLead = titleRange.toString();
+    }
+    var authorBoundary = citationLead.indexOf('. ');
+    var text = (authorBoundary === -1 ? citationLead : citationLead.slice(authorBoundary + 2)).toLowerCase();
+    var matches = Object.keys(categories).filter(function (key) {
+      return key !== 'clinical' && categories[key].keywords.some(function (keyword) {
+        return text.indexOf(keyword) !== -1;
+      });
+    });
+
+    if (text.indexOf('genetic variation across and within individuals') !== -1 && matches.indexOf('somatic') === -1) {
+      matches.unshift('somatic');
+    }
+
+    if (!matches.length) matches.push('clinical');
+    item.dataset.categories = matches.join(' ');
+
+    var tagGroup = document.createElement('span');
+    tagGroup.className = 'publication-tags';
+    tagGroup.setAttribute('aria-label', matches.map(function (key) { return categories[key].label; }).join('; '));
+
+    matches.forEach(function (key) {
+      var tag = document.createElement('span');
+      tag.className = 'publication-tag category-' + key;
+      tag.title = categories[key].label;
+      tag.setAttribute('aria-hidden', 'true');
+      tagGroup.appendChild(tag);
+    });
+
+    item.insertBefore(tagGroup, item.firstChild);
+  });
+
+  var buttons = Array.prototype.slice.call(document.querySelectorAll('.publication-filter button'));
+  buttons.forEach(function (button) {
+    var filter = button.dataset.filter;
+    var count = filter === 'all' ? items.length : items.filter(function (item) {
+      return item.dataset.categories.split(' ').indexOf(filter) !== -1;
+    }).length;
+    button.querySelector('.publication-filter-count').textContent = '(' + count + ')';
+
+    button.addEventListener('click', function () {
+      buttons.forEach(function (candidate) {
+        var selected = candidate === button;
+        candidate.classList.toggle('active', selected);
+        candidate.setAttribute('aria-pressed', selected ? 'true' : 'false');
+      });
+
+      items.forEach(function (item) {
+        item.hidden = filter !== 'all' && item.dataset.categories.split(' ').indexOf(filter) === -1;
+      });
+    });
+  });
+});
+</script>
