@@ -24,5 +24,5 @@
 - image: NIDA.svg
   name: National Institute on Drug Abuse
   url: https://nida.nih.gov/
-  scale: 1.15
+  max_width: 150px
   row: 2
