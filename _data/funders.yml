@@ -26,3 +26,8 @@
   url: https://nida.nih.gov/
   max_width: 150px
   row: 2
+- image: TOPMed.png
+  name: NHLBI Trans-Omics for Precision Medicine Program
+  url: https://topmed.nhlbi.nih.gov/
+  max_width: 150px
+  row: 2
