@@ -60,7 +60,6 @@ We develop computational and statistical methods to address these challenges. Cu
 
 <p><strong>Selected publications and preprints:</strong></p>
 <ul>
-  <li><strong>Somatic-mutation detection:</strong> Ha et al., <i>Cell Genom</i>, accepted.</li>
   <li><strong>Proteomics:</strong> <a href="https://www.biorxiv.org/content/10.64898/2026.05.05.723059v1" target="_blank">Li, Alaa et al., <i>bioRxiv</i>, 2026</a>; and <a href="https://pubmed.ncbi.nlm.nih.gov/35984888/" target="_blank">Katz et al., <i>Sci Adv</i>, 2022</a>.</li>
   <li><strong>Polygenic risk:</strong> <a href="https://www.medrxiv.org/content/10.64898/2026.04.16.26350801v1" target="_blank">Liang, Kim et al., <i>Nat Commun</i>, accepted in principle</a>; <a href="https://pubmed.ncbi.nlm.nih.gov/34548389/" target="_blank">Yu et al., <i>J Am Soc Nephrol</i>, 2021</a>; and <a href="https://pubmed.ncbi.nlm.nih.gov/37749244/" target="_blank">Zhang et al., <i>Nat Genet</i>, 2023</a>.</li>
   <li><strong>Causal inference:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/38459704/" target="_blank">Jin et al., <i>Biostatistics</i>, 2024</a>; and <a href="https://pubmed.ncbi.nlm.nih.gov/32454124/" target="_blank">Yu et al., <i>Kidney Int</i>, 2020</a>.</li>
