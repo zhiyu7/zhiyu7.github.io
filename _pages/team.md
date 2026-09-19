@@ -57,55 +57,53 @@ permalink: /team/
 
 ### {{ section_title }}
 
-<div class="team-grid" markdown="0">
 {% for member in section_members %}
-<article class="team-card">
-<img class="team-card__photo" src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" alt="Portrait of {{ member.name | escape }}" />
-<div class="team-card__content">
-<h4>{{ member.name }}</h4>
-<p class="team-card__role"><i>{{ member.info }}</i></p>
-{% if member.website or member.scholar or member.orcid or member.linkedin %}
-<div class="team-card__links" aria-label="Profiles for {{ member.name | escape }}">
-{% if member.website %}<a href="{{ member.website }}" target="_blank" rel="noopener noreferrer" aria-label="Personal website" title="Personal website"><i class="fa fa-external-link" aria-hidden="true"></i></a>{% endif %}
-{% if member.scholar %}<a href="{{ member.scholar }}" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>{% endif %}
-{% if member.orcid %}<a href="{{ member.orcid }}" target="_blank" rel="noopener noreferrer" aria-label="ORCID" title="ORCID"><i class="ai ai-orcid" aria-hidden="true"></i></a>{% endif %}
-{% if member.linkedin %}<a href="{{ member.linkedin }}" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" title="LinkedIn"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>{% endif %}
+<div class="jumbotron">
+<div class="row">
+<div class="col-sm-2">
+<img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px" alt="Portrait of {{ member.name | escape }}" />
 </div>
-{% endif %}
-<p class="team-card__bio">{{ member.bio }}</p>
+<div class="col-sm-10 col-xs-12">
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br></i>
+  <p><strong>Bio:</strong> {{ member.bio }}</p>
 </div>
-</article>
+</div>
+</div>
 {% endfor %}
-</div>
 {% endfor %}
 
 ## Other
 
-<div class="team-grid" markdown="0">
 {% for member in site.data.alumni %}
-<article class="team-card">
-<img class="team-card__photo" src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" alt="Portrait of {{ member.name | escape }}" />
-<div class="team-card__content">
-<h4>{{ member.name }}</h4>
-<p class="team-card__role"><i>{{ member.info }}</i></p>
-<p class="team-card__bio"><strong>Current:</strong> {{ member.current_degree }}</p>
+<div class="jumbotron">
+<div class="row">
+<div class="col-sm-2">
+<img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px" alt="Portrait of {{ member.name | escape }}" />
 </div>
-</article>
+<div class="col-sm-10 col-xs-12">
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br></i>
+  <p><strong>Current:</strong> {{ member.current_degree }}</p>
+</div>
+</div>
+</div>
 {% endfor %}
-</div>
 
 ## Alumni
 
-<div class="team-grid" markdown="0">
 {% for member in site.data.alumni_members %}
-<article class="team-card">
-<img class="team-card__photo" src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" alt="Portrait of {{ member.name | escape }}" />
-<div class="team-card__content">
-<h4>{{ member.name }}</h4>
-<p class="team-card__role"><i>{{ member.info }}</i></p>
-<p class="team-card__bio"><strong>Current:</strong> {{ member.current_degree }}</p>
-{% if member.past_degree %}<p class="team-card__bio"><strong>Past:</strong> {{ member.past_degree }}</p>{% endif %}
+<div class="jumbotron">
+<div class="row">
+<div class="col-sm-2">
+<img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px" alt="Portrait of {{ member.name | escape }}" />
 </div>
-</article>
+<div class="col-sm-10 col-xs-12">
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br></i>
+  <p><strong>Current:</strong> {{ member.current_degree }}</p>
+  {% if member.past_degree %}<p><strong>Past:</strong> {{ member.past_degree }}</p>{% endif %}
+</div>
+</div>
+</div>
 {% endfor %}
-</div>

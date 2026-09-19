@@ -96,7 +96,6 @@
   group: postdoc-research
   order: 3
   photo: Mesbah.jpg
-  orcid: https://orcid.org/0000-0003-1846-0411
   info: Research scientist jointly with Dr. Michael Honigberg (previously Dr. Pradeep Natarajan)
   bio: >
     Mesbah is currently a research scientist at the Broad Institute. He is working on identifying clonal hematopoiesis (CH) in individuals, understanding the role of CH in epigenetic changes, and illustrating genetic determinants of CH. He is also contributing to the data production and analysis of the Somatic Mosaicism Across Human Tissues (SMaHT) consortium. His key research contributions in the lab include several co-authored publications. Before joining the lab, Mesbah completed his PhD at Aarhus University (Denmark) and AgroParisTech (France), MS at King Abdulaziz University (Jeddah, Saudi Arabia), and BS  at Khulna University (Khulna, Bangladesh).
@@ -105,7 +104,6 @@
   group: visiting
   order: 1
   photo: Yuxuan.jpg
-  website: https://www.yuxuanwang.org/
   info: "Visiting scientist (primary position: postdoctoral fellow at Amgen mentored by Dr. Pradeep Natarajan)"
   bio: >
     Yuxuan is a visiting scientist at the Broad Institute. He aims to leverage advanced statistical and computational frameworks to investigate the genetic architecture of human diseases. Key research contributions include developing novel statistical methods for assessing the replicability of pleiotropic loci and leading large-scale genetic analyses for the Global Lipids Genetics Consortium and the TOPMed program. Yuxuan currently focuses on integrating human genetics with functional genomics approaches such as Perturb-Seq to connect evidence with cellular phenotypes and biological mechanisms. He completed his Ph.D. degree in Biostatistics at Boston University.
