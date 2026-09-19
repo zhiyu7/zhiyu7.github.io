@@ -69,11 +69,6 @@ We develop computational and statistical methods to address these challenges. Cu
 </div>
 
 
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
 <h4>How we work</h4>
 
 Our work is grounded in large and diverse human cohorts, biobanks, clinical datasets, and collaborative experimental studies. We combine population-scale discovery with mechanistic investigation in human and murine systems, working closely with clinicians, experimental scientists, cohort investigators, and consortium partners.
-
-</div>
-</div>
