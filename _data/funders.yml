@@ -1,13 +1,28 @@
 - image: NHGRI.png
+  name: National Human Genome Research Institute
   url: https://www.genome.gov/
   scale: 1.12
+  row: 1
 - image: Leducq.png
+  name: Fondation Leducq
   url: https://www.fondationleducq.org/network/clonal-hematopoiesis-and-atherosclerosis/
+  row: 1
 - image: nhlbi.jpg
+  name: National Heart, Lung, and Blood Institute
   url: https://www.nhlbi.nih.gov/
   scale: 1.12
+  row: 1
 - image: SMaHT.png
+  name: Somatic Mosaicism across Human Tissues Network
   url: https://smaht.org/
+  row: 1
 - image: Amgen.svg
+  name: Amgen
   url: https://www.amgen.com/
   scale: 1.08
+  row: 1
+- image: NIDA.svg
+  name: National Institute on Drug Abuse
+  url: https://nida.nih.gov/
+  scale: 1.15
+  row: 2

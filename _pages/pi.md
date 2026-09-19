@@ -100,7 +100,10 @@ permalink: /pi/  # Change from /about/ to /pi/
 
 <div class="jumbotron">
   <h4>Thanks</h4>
-  <div markdown="0" style="display:flex; align-items:center; justify-content:center; flex-wrap:nowrap; gap:clamp(6px, 2.5vw, 24px); box-sizing:border-box; padding:0 clamp(4px, 1vw, 8px); margin:0 auto;">
-  {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank" style="display:flex; align-items:center; justify-content:center; flex:1 1 0; min-width:0; max-width:180px;"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}" style="display:block; width:100%; height:clamp(56px, 9vw, 90px); max-width:180px; margin:0; object-fit:contain; transform:scale({{ funder.scale | default: 1 }});"/></a>{% endfor %}
+  {% assign funder_rows = site.data.funders | group_by: "row" %}
+  {% for funder_row in funder_rows %}
+  <div markdown="0" style="display:flex; align-items:center; justify-content:center; flex-wrap:nowrap; gap:clamp(6px, 2.5vw, 24px); box-sizing:border-box; padding:0 clamp(4px, 1vw, 8px); margin:{% if forloop.first %}0{% else %}clamp(16px, 2.5vw, 24px){% endif %} auto 0;">
+  {% for funder in funder_row.items %}<a href="{{ funder.url }}" target="_blank" style="display:flex; align-items:center; justify-content:center; flex:1 1 0; min-width:0; max-width:180px;"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}" alt="{{ funder.name }}" style="display:block; width:100%; height:clamp(56px, 9vw, 90px); max-width:180px; margin:0; object-fit:contain; transform:scale({{ funder.scale | default: 1 }});"/></a>{% endfor %}
   </div>
+  {% endfor %}
 </div>
