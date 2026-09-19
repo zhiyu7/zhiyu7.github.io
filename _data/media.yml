@@ -1,0 +1,29 @@
+- title: "Research provides clues to spleen’s role in coronary artery disease"
+  image: media_kamineni_coverage.jpg
+  image_alt: "Lab members presenting spleen imaging results"
+  outlet: "Harvard Medical School · Mass General Brigham"
+  date: "September 10, 2026"
+  tag: "Kamineni et al. · Science Translational Medicine"
+  primary_url: "https://hms.harvard.edu/news/research-provides-clues-spleens-role-coronary-artery-disease"
+  links:
+    - label: "HMS coverage"
+      url: "https://hms.harvard.edu/news/research-provides-clues-spleens-role-coronary-artery-disease"
+    - label: "MGB coverage"
+      url: "https://www.massgeneralbrigham.org/en/newsroom/spleen-role-coronary-artery-disease"
+    - label: "MGB LinkedIn"
+      url: "https://www.linkedin.com/feed/update/urn:li:activity:7505343535433371648/"
+    - label: "Paper"
+      url: "https://pubmed.ncbi.nlm.nih.gov/42715348/"
+
+- title: "Hidden blood mutations may be driving severe IBD — IU team uncovers new treatment target"
+  image: media_blood_coverage.jpg
+  image_alt: "Reuben Kapur and Ramesh Kumar working in a laboratory"
+  outlet: "Indiana University School of Medicine"
+  date: "March 9, 2026"
+  tag: "Kumar, Li et al. · Blood"
+  primary_url: "https://medicine.iu.edu/news/2026/03/ibd-blood-mutations-treatment-target"
+  links:
+    - label: "IU School of Medicine coverage"
+      url: "https://medicine.iu.edu/news/2026/03/ibd-blood-mutations-treatment-target"
+    - label: "Paper"
+      url: "https://pubmed.ncbi.nlm.nih.gov/41746260/"
