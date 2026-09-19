@@ -1,54 +1,40 @@
 - name: Meghana Kamineni
-  group: students
-  order: 1
   photo: Meghana.jpg
   info: Co-mentored resident with Dr. Pradeep Natarajan
   bio: >
     Meghana is an internal medicine resident at Massachusetts General Hospital. Her research applies machine learning to abdominal MRI data to identify splenic features associated with coronary artery disease risk. She received her medical degree from Harvard Medical School and holds a bachelor’s degree in Computer Science from MIT.
 
 - name: Xinyu Wang
-  group: students
-  order: 2
   photo: Xinyu.jpg
   info: Co-mentored graduate student with Dr. Ed Giovannucci (master's thesis advisor)
   bio: >
     Xinyu is currently a master's student in Department of Epidemiology, Harvard T.H. Chan School of Public Health. Her research focuses on integrating multi-omics data to explore the underlying mechanisms of cancers and cardiometabolic diseases. She is also passionate about translating epidemiological findings into clinical practice. She holds dual bachelor’s degrees in Medicine and Economics from Peking University.
 
 - name: Yixuan (Kathy) Liu
-  group: students
-  order: 3
   photo: Kathy.jpg
   info: Co-mentored graduate student with Dr. Michael Honigberg (master's thesis advisor)
   bio: >
     Kathy is a master’s student in Department of Biostatistics, Computational Biology and Quantitative Genetics, Harvard T.H. Chan School of Public Health. Her research leverages multi-omics approaches to investigate proteomic profiles and methylation patterns associated with somatic mutations in clonal hematopoiesis of indeterminate potential (CHIP) and cardiovascular disease (CVD). She holds a dual degree in Molecular Bioscience, Genetics and Genomics from Duke Kunshan University and Duke University. 
 
 - name: Linke Li
-  group: postdoc-research
-  order: 4
   photo: Linke.jpg
   info: Computational associate jointly with Dr. Michael Honigberg
   bio: >
     Linke Li holds a Master's degree in Biostatistics from Duke University. Her research focuses on integrating deep learning methodologies into statistical genetics to enhance disease risk prediction and identify at-risk populations. She is interested in comparing the disease prediction capabilities of deep learning methods with traditional approaches like genome-wide association studies (GWAS) and polygenic risk scores (PRS). By identifying novel genetic variations, she aims to improve risk prediction models and contribute to preventive healthcare for disease.
 
 - name: Yiru "Angelina" Jin
-  group: students
-  order: 4
   photo: Yiru.jpg
   info: Co-mentored undergrad student with Dr. Vineet Raghu
   bio: >
     Angelina is a sophomore at Boston University majoring in Biochemistry and Molecular Biology on a pre-dental track. She is currently studying the effects of environmental and nutritional stress on the mitochondrial pathway. Moving forward, she hopes to expand her knowledge of computational biology and explore machine learning techniques to enhance data analysis in biological research.
 
 - name: Cuiqiyun (Linda) Yang
-  group: students
-  order: 5
   photo: Linda.jpg
   info: Graduate student (master’s thesis advisor)
   bio: >
     Linda is a master’s student in the Department of Biostatistics, Computational Biology and Quantitative Genetics, Harvard T.H. Chan School of Public Health. Her research focuses on developing and leveraging LLM and multi-omics approaches for cancer characterization. She holds a dual degree in Molecular Bioscience, Genetics and Genomics from Duke Kunshan University and Duke University.
 
 - name: Xueting (Christina) Wang
-  group: students
-  order: 6
   photo: Christina.jpg
   info: Co-mentored graduate student with Dr. Aniruddh Patel
   bio: >
@@ -61,64 +47,48 @@
 #    Mengze is currently a master’s student in Health Data Science at Harvard T.H. Chan School of Public Health. His academic interests include statistical modeling and machine learning for health data, and he is particularly interested in learning how quantitative methods can be applied to real-world biomedical research. He holds dual bachelor’s degrees in Economics and Applied Mathematics from the University of Washington.
 
 - name: Qiayi Zha 
-  group: students
-  order: 7
   photo: Qiayi.jpg
   info: Graduate student (master’s thesis advisor)
   bio: >
     Qiayi is a Master’s student in the CBQG program  at Harvard T.H. Chan School of Public Health. With a computational background, she is curious about the mechanisms underlying genetics, proteomics, and human biological systems. She is interested in figuring out the logic of gene regulation, protein interactions, and cellular dynamics, and translating these biological principles into computational frameworks. 
 
 - name: Yushu Huang 
-  group: students
-  order: 8
   photo: Yushu.jpg
   info: Co-mentored visiting Ph.D. student with Dr. Wenjie Ma
   bio: >
     Yushu is currently a Ph.D. student in Big Data Health Science at Zhejiang University. Her research focuses on leveraging multimodal data to estimate biological aging, with particular interests in its determinants and subsequent clinical outcomes.
 
 - name: Haodong Tian 
-  group: postdoc-research
-  order: 1
   photo: HT.jpg
   info: Co-mentored postdoctoral fellow with Dr. Pradeep Natarajan and Dr. Jordan Smoller
   bio: >
     Haodong is a postdoctoral researcher at the Broad Institute. His research focuses on developing and applying statistical and computational methods, particularly in genetic causal inference, and integrating large-scale, multi-source data to better understand disease mechanisms and advance precision medicine and drug discovery. He holds a PhD in Biostatistics from the University of Cambridge.
 
 - name: Mengyu Zhang 
-  group: postdoc-research
-  order: 2
   photo: Mengyu.jpg
   info: Postdoctoral fellow 
   bio: >
     Mengyu is a Research Fellow at Massachusetts General Hospital. Her research focuses on developing statistical and computational methods for large-scale genetic association studies, with an emphasis on improving efficiency and accuracy in analyses of related individuals and diverse populations, and integrating multi-omics data to better understand the biological basis of complex diseases. She holds a PhD in Biostatistics from The University of Texas Health Science Center at Houston (UTHealth Houston) School of Public Health.
 
 - name: Md Mesbah Uddin 
-  group: postdoc-research
-  order: 3
   photo: Mesbah.jpg
   info: Research scientist jointly with Dr. Michael Honigberg (previously Dr. Pradeep Natarajan)
   bio: >
     Mesbah is currently a research scientist at the Broad Institute. He is working on identifying clonal hematopoiesis (CH) in individuals, understanding the role of CH in epigenetic changes, and illustrating genetic determinants of CH. He is also contributing to the data production and analysis of the Somatic Mosaicism Across Human Tissues (SMaHT) consortium. His key research contributions in the lab include several co-authored publications (ORCID). Before joining the lab, Mesbah completed his PhD at Aarhus University (Denmark) and AgroParisTech (France), MS at King Abdulaziz University (Jeddah, Saudi Arabia), and BS  at Khulna University (Khulna, Bangladesh).
 
 - name: Yuxuan Wang
-  group: visiting
-  order: 1
   photo: Yuxuan.jpg
   info: "Visiting scientist (primary position: postdoctoral fellow at Amgen mentored by Dr. Pradeep Natarajan)"
   bio: >
     Yuxuan is a visiting scientist at the Broad Institute. He aims to leverage advanced statistical and computational frameworks to investigate the genetic architecture of human diseases. Key research contributions include developing novel statistical methods for assessing the replicability of pleiotropic loci and leading large-scale genetic analyses for the Global Lipids Genetics Consortium and the TOPMed program. Yuxuan currently focuses on integrating human genetics with functional genomics approaches such as Perturb-Seq to connect evidence with cellular phenotypes and biological mechanisms. He completed his Ph.D. degree in Biostatistics at Boston University.
 
 - name: Aram Aras
-  group: students
-  order: 9
   photo: Aram.jpg
   info: Visiting medical student
   bio: >
     Aram is a fourth-year medical student and Honours student at KU Leuven, Belgium, where he recently completed his bachelor’s degree in Medicine. His academic interests lie at the intersection of surgery and fundamental research, with a focus on translating cutting-edge scientific findings into clinical practice. He has prior research experience in cancer biology at Chang Gung University in Taipei and in pulmonary vascular research at the BREATHE lab at KU Leuven.
 
 - name: Haihan (Rusty) Yuan
-  group: students
-  order: 10
   photo: Haihan.jpg
   info: Graduate student
   bio: >

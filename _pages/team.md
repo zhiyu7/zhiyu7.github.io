@@ -48,16 +48,7 @@ permalink: /team/
   </button>
 </div>
 
-{% assign team_sections = "postdoc-research::Postdoctoral Fellows & Research Scientists||students::Graduate, Medical & Undergraduate Students||visiting::Visiting Researchers" | split: "||" %}
-{% for section in team_sections %}
-{% assign section_parts = section | split: "::" %}
-{% assign section_key = section_parts[0] %}
-{% assign section_title = section_parts[1] %}
-{% assign section_members = site.data.team_members | where: "group", section_key | sort: "order" %}
-
-### {{ section_title }}
-
-{% for member in section_members %}
+{% for member in site.data.team_members %}
 <div class="jumbotron">
 <div class="row">
 <div class="col-sm-2">
@@ -70,7 +61,6 @@ permalink: /team/
 </div>
 </div>
 </div>
-{% endfor %}
 {% endfor %}
 
 ## Other
