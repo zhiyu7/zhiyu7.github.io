@@ -3,14 +3,15 @@
     <div class="row">
       <div class="col-md-4 mb-3">
         <h5>{{ site.title }}</h5>
-        <p>Computational multi-omics research for cardiovascular and age-related diseases.</p>
+        <p>Computational modeling of multimodal data in aging, somatic mosaicism, and cardiovascular disease.</p>
       </div>
       <div class="col-md-4 mb-3">
         <h5>Quick Links</h5>
         <ul class="list-unstyled">
           <li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
           {% for pg in site.nav_pages %}
-          <li><a href="{{ site.url }}{{ site.baseurl }}/{{ pg.name }}/">{{ pg.name | capitalize }}</a></li>
+          {% assign nav_label = pg.label | default: pg.name %}
+          <li><a href="{{ site.url }}{{ site.baseurl }}/{{ pg.name }}/">{{ nav_label }}</a></li>
           {% endfor %}
         </ul>
       </div>

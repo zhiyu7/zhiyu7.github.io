@@ -9,18 +9,27 @@ permalink: /openings/
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
+<h4>Current Opportunities</h4>
+<p>We do not currently have any formal openings. Future opportunities will be posted here.</p>
+</div>
+</div>
+
+## Archived Opportunities
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
 <h4>Computational Associate (closed)</h4>
 
 <p><strong>Description:</strong> The Yu and Small Labs at Mass General Brigham and the Broad Institute of MIT and Harvard are seeking one motivated computational associate to join our teams!</p>
 
-<p>The Yu Lab develops and applies computational and statistical methods for multi-omics data (germline and somatic DNA, methylation, RNA, and protein) and other multi-modal data (medical imaging, EHR) to investigate mechanisms and potential interventions for cardiovascular and other age-related diseases. We are especially interested in and funded to study age-related somatic mutations, in blood (clonal hematopoiesis) and other tissues, and their disease consequences.</p>
+<p>The Yu Lab develops and applies computational and statistical methods to integrate multimodal biomedical data—including multi-omics, medical imaging, and EHR data—to study aging, somatic mosaicism, and cardiovascular and other age-related diseases. We are especially interested in age-related somatic mutations in blood (including clonal hematopoiesis) and other tissues, and their disease consequences.</p>
 
-<p>The Small Lab focuses on translational approaches to valvular heart diseases, including calcific aortic stenosis, mitral valve prolapse, and rheumatic heart disease. The lab employs state-of-the-art statistical methods to multi-omics data, including genomics, transcriptomics (bulk tissue, single cell, and spatial), and proteomics data to interrogate biologic mechanisms with an ultimate goal to identify novel treatment targets. The lab is also interested in developing novel imaging-derived phenotypes for biologic discovery and clinical risk prediction.</p>
+<p>The Small Lab focuses on translational approaches to valvular heart diseases, including calcific aortic stenosis, mitral valve prolapse, and rheumatic heart disease. The lab applies state-of-the-art statistical methods to multi-omics data, including genomics, transcriptomics (bulk tissue, single cell, and spatial), and proteomics data to interrogate biologic mechanisms with an ultimate goal to identify novel treatment targets. The lab is also interested in developing novel imaging-derived phenotypes for biologic discovery and clinical risk prediction.</p>
 
 <p><strong>Responsibilities:</strong> The candidate will contribute to projects in one or more of these areas:</p>
 <ul>
-  <li><strong>Somatic Mutations &amp; Age-related Disease:</strong> How age-related somatic mutations, particularly clonal hematopoiesis, contribute to disease. The candidate will likely be involved in somatic mutation calling from whole genome/exome sequencing data.</li>
-  <li><strong>Machine Learning &amp; Multi-modal Data:</strong> Applying machine learning to imaging (e.g., echocardiography, CT) and clinical notes, and integrating these with omics data for biological discovery and risk prediction.</li>
+  <li><strong>Aging, Somatic Mosaicism &amp; Disease:</strong> How age-related somatic mutations, particularly clonal hematopoiesis, contribute to disease. The candidate will likely be involved in somatic mutation calling from whole genome/exome sequencing data.</li>
+  <li><strong>Multimodal Phenotyping &amp; Machine Learning:</strong> Applying machine learning to imaging (e.g., echocardiography, CT) and clinical notes, and integrating these with omics data for biological discovery and risk prediction.</li>
   <li><strong>Statistical Genetics:</strong> Analyzing common variant genotyping and whole genome/exome sequencing data from Mass General Brigham, UK Biobank, All of Us, and other resources for genetic discovery and risk prediction.</li>
 </ul>
 
@@ -32,9 +41,9 @@ permalink: /openings/
   <li>Excellent organizational, communication, and collaborative skills.</li>
 </ul>
 
-<p><strong>What We Offer:</strong> This role is ideal for post-master's students seeking research experience and publications before applying to PhD programs.</p>
+<p><strong>What We Offer:</strong> This role is ideal for post-master’s students seeking research experience and publications before applying to PhD programs.</p>
 <ul>
-  <li><strong>Career Development:</strong> Active support to build your publication record and PhD application profile. We have a very strong track record with master's-level trainees - recent alumni have gone on to PhD programs at Harvard , Cambridge, etc.</li>
+  <li><strong>Career Development:</strong> Active support to build your publication record and PhD application profile. We have a very strong track record with master’s-level trainees—recent alumni have gone on to PhD programs at Harvard, Cambridge, and other leading institutions.</li>
   <li><strong>Rich, Large-Scale Data:</strong> Extensive multi-cohort datasets across many data types.</li>
   <li><strong>Competitive Salary:</strong> Salary will be competitive compared to similar roles.</li>
 </ul>
@@ -50,14 +59,14 @@ permalink: /openings/
 
 <p><em>The official job posting for this position at MGH can be found <strong><a href="https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Postdoctoral-Fellow_RQ4042787" target="_blank">here</a></strong>.</em></p>
 
-<p><strong>Description:</strong> Yu Lab at MGH and the Broad Institute of MIT and Harvard is seeking one or two motivated and creative Postdoctoral Fellows to join our team (<a href="https://zhiyu7.github.io/" target="_blank">https://zhiyu7.github.io/</a>).</p>
-<p>Our lab focuses on developing and applying computational and statistical methods to multi-omics and other multi-modal data (including genomics, transcriptomes, proteomics, medical imaging, clinical data, and lifestyle data) to examine the mechanisms and potential interventions for cardiovascular and other age-related diseases. We aim to develop personalized strategies for disease prevention and treatment.</p>
+<p><strong>Description:</strong> The Yu Lab at MGH and the Broad Institute of MIT and Harvard is seeking one or two motivated and creative Postdoctoral Fellows to join our team (<a href="https://zhiyu7.github.io/" target="_blank">https://zhiyu7.github.io/</a>).</p>
+<p>Our lab develops and applies computational and statistical methods to integrate multimodal biomedical data—including genomics, transcriptomics, proteomics, medical imaging, EHR, and lifestyle data—to study aging, somatic mosaicism, and cardiovascular and other age-related diseases. We aim to identify disease mechanisms and potential interventions and to advance personalized strategies for prevention and treatment.</p>
 
 <p><strong>Research Areas & Responsibilities:</strong> The successful candidate will use their strong computational expertise to lead projects in one or more of our key research areas, depending on interest and expertise:</p>
 <ul>
-  <li><strong>Clonal Hematopoiesis & Age-related Disease:</strong> We are passionate about understanding the biology of aging. This research area focuses on how age-related somatic mutations, particularly clonal hematopoiesis (CH), contribute to disease. We believe understanding and intervening in these processes is one of the most important questions for our society.</li>
-  <li><strong>Machine Learning & Multi-modal Data:</strong> We are also working on leverage machine learning to extract information from imaging and clinical notes and further integrate with omics data to discover novel biological insights and perform risk prediction.</li>
-  <li><strong>Multi-omics Methods Development:</strong> While we apply multi-omics data to many questions, we would love to tackle fundamental methodological challenges within the data itself (e.g., discordance between proteomics platforms). We are highly motivated to develop methods that make these measurements more robust, harmonized, and interpretable.</li>
+  <li><strong>Aging, Somatic Mosaicism &amp; Disease:</strong> We are passionate about understanding the biology of aging. This research area focuses on how age-related somatic mutations, particularly clonal hematopoiesis (CH), contribute to disease. We believe understanding and intervening in these processes is one of the most important questions for our society.</li>
+  <li><strong>Multimodal Phenotyping &amp; Machine Learning:</strong> We leverage machine learning to extract information from imaging and clinical notes and integrate these data with omics measurements for biological discovery and risk prediction.</li>
+  <li><strong>Omics &amp; Statistical Methods:</strong> While we apply multi-omics data to many questions, we would love to tackle fundamental methodological challenges within the data itself (e.g., discordance between proteomics platforms). We are highly motivated to develop methods that make these measurements more robust, harmonized, and interpretable.</li>
 </ul>
 
 <p><strong>Qualifications:</strong></p>
@@ -75,13 +84,13 @@ permalink: /openings/
   <li>Committed Career & Research Development: We are dedicated to advancing your career. You'll receive active support to build your publication record. For postdocs aiming for academia, we provide support for grant applications (e.g., K99/R00) to ensure you become a highly competitive candidate.</li>
   <li>Collaborative Co-Mentorship: To broaden your expertise and support network, we can offer flexible co-mentorship opportunities.</li>
   <li>Access to Rich, Large-Scale Data: You will work with extensive, multi-cohort datasets encompassing a wide variety of data types.</li>
-  <li>Develop Your Mentorship & Leadership Skills: You will have the opportunity to mentor talented and motivated junior students, which provide leadership experience and also lead to co-authorship.</li>
+  <li>Develop Your Mentorship & Leadership Skills: You will have the opportunity to mentor talented and motivated junior students, which provides leadership experience and may also lead to co-authorship.</li>
   <li>World-Class Research Environment: Of course – this is Boston : )</li>
   <li>Competitive Salary: Salary will be competitive compared to similar roles.</li>
   <li>We welcome you to chat with our current members to learn more about the group.</li>
 </ul>
 
-<p><strong>How to Apply:</strong> If interested, please send your CV to Zhi at <a href="mailto:zyu5@mgh.harvard.edu">zyu5@mgh.harvard.edu</a> or <a href="mailto:zyu@broadinstitute.org">zyu@broadinstitute.org</a></p>
+<p><strong>How to Apply:</strong> If interested, please send your CV to Zhi at <a href="mailto:zyu5@mgh.harvard.edu">zyu5@mgh.harvard.edu</a> or <a href="mailto:zyu@broadinstitute.org">zyu@broadinstitute.org</a>.</p>
 
 </div>
 </div>
@@ -97,7 +106,7 @@ Dr. Zhi Yu and <a href="https://connects.catalyst.harvard.edu/Profiles/display/P
 Depending on expertise and interests:
 - One associate will work on polygenic risk score development, rare variant analysis, and genetic association studies.
 - The other will focus on classical epidemiology work.
-- This role is ideal for post-bachelor or post-master students looking to gain hands-on research experience, build their publication record, and explore research opportunities before applying to PhD programs. Both Dr. Yu and Dr. Honigberg have robust publication records and are committed to providing comprehensive training, guidance in research and writing, and opportunities for collaboration and presenting research work.
+- This role is ideal for post-bachelor’s or post-master’s students looking to gain hands-on research experience, build their publication record, and explore research opportunities before applying to PhD programs. Both Dr. Yu and Dr. Honigberg have robust publication records and are committed to providing comprehensive training, guidance in research and writing, and opportunities for collaboration and presenting research work.
 
 **Key Responsibilities:**
 - Perform genetic and epidemiological data analyses, with a focus on polygenic risk scores, rare variants, or classical epidemiology.

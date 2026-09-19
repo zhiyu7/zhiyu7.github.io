@@ -63,7 +63,7 @@ permalink: /team/
 </div>
 {% endfor %}
 
-## Other
+## Additional Mentoring
 
 {% for member in site.data.alumni %}
 <div class="jumbotron">

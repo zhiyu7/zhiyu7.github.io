@@ -26,13 +26,20 @@ contact:
 # Pages shown in navbar
 nav_pages:
   - name: pi
+    label: PI
   - name: research
+    label: Research
   - name: team
+    label: Team
   - name: publications
+    label: Publications
   - name: media
+    label: Media
 #  - name: talks
   - name: openings
+    label: Openings
   - name: smart-jc
+    label: SMART JC
 #  - name: blogs
 
 include:
