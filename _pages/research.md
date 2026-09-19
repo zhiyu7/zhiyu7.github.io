@@ -11,7 +11,7 @@ We study how aging reshapes the genome and molecular state of cells—and how th
 
 Across our research, we aim to connect molecular variation to cellular phenotypes, human disease, and ultimately opportunities for prevention and treatment.
 
-<img src="/images/banner_2.jpg" alt="Multi-omics">
+<img src="/images/banner_2_v2.png" alt="Research overview connecting aging and somatic mosaicism with multimodal data, computational modeling, disease mechanisms, risk prediction, and intervention">
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
