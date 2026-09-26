@@ -11,7 +11,7 @@ We study how aging shapes somatic genomic variation and multi-omic profiles—an
 
 Across our research, we aim to connect molecular variation to human phenotypes and disease, and ultimately to opportunities for prevention and treatment.
 
-<img src="/images/banner_2_v5.png" alt="Research overview connecting aging and somatic mosaicism with multimodal data and computational modeling to disease mechanisms and therapeutic target prioritization">
+<img src="/images/banner_2_v6.png" alt="Research overview connecting aging and somatic mosaicism with multimodal data and computational modeling to disease mechanisms, which inform therapeutic target prioritization">
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
