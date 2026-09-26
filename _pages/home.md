@@ -6,11 +6,11 @@ permalink: /
 ---
 
 ### About Our Research
-Our research uses computational modeling to integrate **multimodal biomedical data—including human multi-omics, medical imaging, and EHR data**—to understand how **aging and somatic mosaicism contribute to cardiovascular and other age-related diseases**.
+Our research uses computational modeling to integrate **multimodal biomedical data—including human multi-omics, medical imaging, and EHR data**—to understand how **aging and somatic mosaicism contribute to cardiovascular and other age-related diseases** and to inform **therapeutic target prioritization**.
 
 Key areas of interest:
 
-- **Aging, somatic mosaicism, and disease**: We investigate somatic mutations in blood—including clonal hematopoiesis—and other tissues, their relationships with aging and disease, and interventions that may modify these processes and their clinical consequences.
+- **Aging, somatic mosaicism, and disease**: We investigate somatic mutations in blood—including clonal hematopoiesis—and other tissues, and their relationships with aging and disease. We integrate human genetics, multi-omics, and experimental evidence to distinguish causal mechanisms from associations and prioritize targets with potential for therapeutic intervention.
 
 - **Multimodal phenotyping and machine learning**: We use deep learning to analyze human and murine imaging data and LLMs to derive phenotypes from EHR data. We integrate these modalities with genomics and other omics data to uncover biological mechanisms and improve disease characterization.
 

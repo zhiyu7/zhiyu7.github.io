@@ -7,11 +7,11 @@ permalink: /research/
 
 ## Research
 
-We study how aging reshapes the genome and molecular state of cells—and how these changes contribute to cardiovascular and other age-related diseases. We develop and apply computational methods that integrate human multi-omics with medical imaging, EHR data, and experimental models to identify disease mechanisms, biomarkers, and actionable interventions.
+We study how aging shapes somatic genomic variation and multi-omic profiles—and how these changes contribute to cardiovascular and other age-related diseases. We develop and apply computational methods that integrate human multi-omics with medical imaging, EHR data, and experimental models to identify causal disease mechanisms, biomarkers, and genetically supported therapeutic targets.
 
-Across our research, we aim to connect molecular variation to cellular phenotypes, human disease, and ultimately opportunities for prevention and treatment.
+Across our research, we aim to connect molecular variation to human phenotypes and disease, and ultimately to opportunities for prevention and treatment.
 
-<img src="/images/banner_2_v2.png" alt="Research overview connecting aging and somatic mosaicism with multimodal data, computational modeling, disease mechanisms, risk prediction, and intervention">
+<img src="/images/banner_2_v2.png" alt="Research overview connecting aging and somatic mosaicism with multimodal data, computational modeling, disease mechanisms, risk prediction, and therapeutic target prioritization">
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -19,7 +19,7 @@ Across our research, we aim to connect molecular variation to cellular phenotype
 
 Somatic mutations accumulate throughout life, creating genetically distinct cell populations in blood and other tissues. We study the factors that shape these mutations and their consequences for human health, with a particular focus on clonal hematopoiesis.
 
-By integrating population-scale genetics, transcriptomics, proteomics, clinical phenotypes, and human and murine studies, we investigate how somatic mutations contribute to cardiovascular, kidney, inflammatory, infectious, and malignant diseases. Beyond identifying associations, we seek mechanisms and interventions that can disrupt the progression from aging to somatic mutation to disease.
+By integrating population-scale genetics, transcriptomics, proteomics, clinical phenotypes, and human and murine studies, we investigate how somatic mutations contribute to cardiovascular, kidney, inflammatory, infectious, and malignant diseases. Beyond identifying associations, we triangulate evidence across these modalities to define causal mechanisms and prioritize therapeutic targets that may disrupt the progression from aging to somatic mutation to disease.
 
 <p><strong>Selected publications and preprints:</strong></p>
 <ul>
@@ -56,7 +56,7 @@ We then integrate these phenotypes with genomic and other omics data to uncover 
 
 Large-scale omics studies introduce fundamental methodological challenges, including measurement error, discordance across experimental platforms, detection of low-frequency somatic mutations, and uncertainty in the clinical interpretation of genetic risk.
 
-We develop computational and statistical methods to address these challenges. Current areas include benchmarking somatic-mutation detection, cross-platform proteomic imputation and quality assessment, evaluating the individual-level performance of polygenic risk scores, and integrating genetic instruments with molecular biomarkers for causal inference.
+We develop computational and statistical methods to address these challenges. Current areas include benchmarking somatic-mutation detection, cross-platform proteomic imputation and quality assessment, evaluating the individual-level performance of polygenic risk scores, and integrating genetic instruments with molecular biomarkers for causal inference and therapeutic target prioritization.
 
 <p><strong>Selected publications and preprints:</strong></p>
 <ul>
