@@ -69,6 +69,7 @@ permalink: /pi/  # Change from /about/ to /pi/
     <li>CI 764B - Systems Biology and Omics Analysis II</li>
   </ul>
 
+{% comment %}
   <p style="margin-bottom: 2px;"><strong>Teaching Assistant:</strong></p>
   <p style="margin-top: 2px; margin-bottom: 5px;">- Johns Hopkins Bloomberg School of Public Health (2018-2020)</p>
   <ul style="margin-top: 5px; margin-bottom: 10px;">
@@ -81,6 +82,7 @@ permalink: /pi/  # Change from /about/ to /pi/
     <li>Biostatistics 140.613 - Data Analysis Workshop I</li>
     <li>Biostatistics 140.614 - Data Analysis Workshop II</li>
   </ul>
+{% endcomment %}
 </div>
 
 
