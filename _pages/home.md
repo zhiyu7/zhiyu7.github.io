@@ -6,7 +6,7 @@ permalink: /
 ---
 
 ### About Our Research
-Our research uses computational modeling to integrate **multimodal biomedical data—including human multi-omics, medical imaging, and EHR data**—to understand how **aging and somatic mosaicism contribute to cardiovascular and other age-related diseases** and to inform **therapeutic target prioritization**.
+Our research uses computational modeling to integrate **multimodal biomedical data**—including human multi-omics, medical imaging, and EHR data—to uncover disease mechanisms linking **aging and somatic mosaicism** to cardiovascular and other age-related diseases, improve clinical phenotyping and risk stratification, and identify and prioritize therapeutic targets.
 
 Key areas of interest:
 
