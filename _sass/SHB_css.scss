@@ -183,6 +183,124 @@ img {
 }
 
 // ============================================
+// Join Our Team page
+// ============================================
+
+.join-page {
+  max-width: 900px;
+  padding: 2rem 0 1rem;
+  margin: 0 auto;
+}
+
+.join-intro {
+  margin-bottom: 3rem;
+
+  p {
+    max-width: 850px;
+    margin: 0;
+    color: #384447;
+    font-size: 1.08rem;
+    line-height: 1.75;
+  }
+}
+
+#gridid .join-intro h1 {
+  display: block;
+  margin: 0 0 1rem;
+  color: #1a1a2e;
+  font-family: "Space Grotesk", "Inter", sans-serif;
+  font-size: 2.55rem;
+  line-height: 1.15;
+}
+
+.join-fellowships,
+.join-archive {
+  margin-bottom: 3.25rem;
+}
+
+#gridid .join-fellowships > h2,
+#gridid .join-archive > h2 {
+  display: block;
+  margin: 0 0 1rem;
+  padding: 0 0 0.55rem;
+  border-bottom: 2px solid $mgh-teal;
+  font-size: 1.7rem;
+}
+
+.join-fellowship-list {
+  border-bottom: 1px solid #dce4e5;
+
+  article {
+    padding: 1.15rem 0;
+    border-top: 1px solid #dce4e5;
+  }
+
+  h3 {
+    margin: 0 0 0.35rem;
+    font-size: 1.05rem;
+  }
+
+  p {
+    margin: 0;
+    color: #566164;
+    line-height: 1.65;
+  }
+}
+
+.join-archive__item {
+  margin-bottom: 0.75rem;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+
+  summary {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem 1.2rem;
+    color: #1a1a2e;
+    font-weight: 600;
+    cursor: pointer;
+
+    span {
+      color: #777;
+      font-size: 0.76rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+  }
+}
+
+.join-archive__content {
+  padding: 0 1.2rem 1.1rem;
+  color: #555;
+  font-size: 0.92rem;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .join-page {
+    padding-top: 1rem;
+  }
+
+  #gridid .join-intro h1 {
+    font-size: 2.15rem;
+  }
+
+  .join-archive__item summary {
+    display: block;
+
+    span {
+      display: block;
+      margin-top: 0.35rem;
+    }
+  }
+}
+// ============================================
 // Phase 3C: News Sidebar Cards
 // ============================================
 
