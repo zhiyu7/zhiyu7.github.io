@@ -1,0 +1,19 @@
+{
+  "name": "Zhi Yu Lab @ MGH",
+  "short_name": "Zhi Yu Lab",
+  "icons": [
+    {
+      "src": "/images/logo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0F1115",
+  "background_color": "#FFFFFF",
+  "display": "browser"
+}

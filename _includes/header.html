@@ -4,9 +4,9 @@
 <!-- End Google Tag Manager (noscript) -->
 
 <nav class="navbar sticky-top navbar-expand-md navbar-light">
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">
-     <img src="{{ site.url }}{{ site.baseurl }}/favicon.ico" width="30" height="30" style="margin-right:5px" class="d-inline-block align-top" alt="">
-      {{ site.title | escape }}
+    <a class="navbar-brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title | escape }} home">
+      <img src="{{ '/images/logo/logo-mark.svg' | relative_url }}" width="32" height="32" class="brand-mark" alt="">
+      <span class="brand-name">{{ site.title | escape }}</span>
     </a>
     <button class="toggler navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

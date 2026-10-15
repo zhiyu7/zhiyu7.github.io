@@ -100,9 +100,18 @@ img {
 }
 
 .navbar-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
   font-weight: 600;
   color: #1a1a2e !important;
   font-size: 1.15rem;
+}
+
+.brand-name {
+  font-family: "Space Grotesk", "Inter", sans-serif;
+  letter-spacing: -0.015em;
+  white-space: nowrap;
 }
 
 .nav-item.nav-link {
@@ -393,6 +402,17 @@ img {
   }
 }
 
+.footer-brand {
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+.footer-brand-logo {
+  display: block;
+  width: min(100%, 255px);
+  height: auto;
+}
+
 .footer-bottom {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   margin-top: 2rem;
@@ -513,10 +533,12 @@ img {
 }
 
 // Prevent navbar logo from being affected by page styles
-.navbar-brand img {
+.navbar-brand .brand-mark {
   border-radius: 0 !important;
-  width: 30px !important;
-  max-width: 30px !important;
+  width: 32px !important;
+  height: 32px !important;
+  max-width: 32px !important;
+  flex: 0 0 32px;
   aspect-ratio: auto !important;
   box-shadow: none !important;
 }
