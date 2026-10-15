@@ -10,10 +10,14 @@
   <meta name="description" content="Academic webpage of Zhi Yu">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/main.css">
   <link rel="canonical" href="/publications/">
-  <link rel="shortcut icon" type ="image/x-icon" href="/favicon.ico">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/images/logo/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/images/logo/apple-touch-icon.png">
+  <link rel="manifest" href="/images/logo/site.webmanifest">
+  <meta name="theme-color" content="#0F1115">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 
@@ -82,9 +86,9 @@ MathJax = {
 <!-- End Google Tag Manager (noscript) -->
 
 <nav class="navbar sticky-top navbar-expand-md navbar-light">
-    <a class="navbar-brand" href="/">
-     <img src="/favicon.ico" width="30" height="30" style="margin-right:5px" class="d-inline-block align-top" alt="">
-      Zhi Yu Lab @ MGH
+    <a class="navbar-brand" href="/" aria-label="Zhi Yu Lab @ MGH home">
+      <img src="/images/logo/logo-mark.svg" width="32" height="32" class="brand-mark" alt="">
+      <span class="brand-name">Zhi Yu Lab @ MGH</span>
     </a>
     <button class="toggler navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -420,7 +424,9 @@ document.addEventListener('DOMContentLoaded', function () {
   <div class="container" style="max-width: 1100px; padding-left: 20px; padding-right: 20px;">
     <div class="row">
       <div class="col-md-4 mb-3">
-        <h5>Zhi Yu Lab @ MGH</h5>
+        <a class="footer-brand" href="/" aria-label="Zhi Yu Lab @ MGH home">
+          <img src="/images/logo/logo-horizontal-white.svg" class="footer-brand-logo" alt="Zhi Yu Lab, Massachusetts General Hospital">
+        </a>
         <p>Computational modeling of multimodal data in aging, somatic mosaicism, and cardiovascular disease.</p>
       </div>
       <div class="col-md-4 mb-3">
