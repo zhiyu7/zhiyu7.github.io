@@ -409,7 +409,8 @@ img {
 
 .footer-brand-logo {
   display: block;
-  width: min(100%, 255px);
+  width: 255px;
+  max-width: 100%;
   height: auto;
 }
 
