@@ -42,17 +42,10 @@ permalink: /pi/  # Change from /about/ to /pi/
   
 </div>
 
-{% if site.data.grants %}
+{% if site.data.funders %}
 
 <div class="jumbotron">
-  <h3>Grants</h3>
-  <ul>
-    {% for grant in site.data.grants %}
-      <li>{{ grant.name }}</li>
-    {% endfor %}
-  </ul>
-
-  <h4 style="margin-top: 1.5rem;">Thanks</h4>
+  <h3>Thanks</h3>
   <div markdown="0" style="display:grid; grid-template-columns:repeat(5, minmax(0, 180px)); align-items:center; justify-content:center; column-gap:clamp(6px, 2.5vw, 24px); row-gap:clamp(16px, 2.5vw, 24px); box-sizing:border-box; padding:0 clamp(4px, 1vw, 8px); margin:0 auto;">
   {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank" style="display:flex; align-items:center; justify-content:center; justify-self:center; width:100%; min-width:0; max-width:{{ funder.max_width | default: '180px' }};"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}" alt="{{ funder.name }}" style="display:block; width:100%; height:clamp(56px, 9vw, 90px); max-width:{{ funder.max_width | default: '180px' }}; margin:0; object-fit:contain; transform:scale({{ funder.scale | default: 1 }});"/></a>{% endfor %}
   </div>
