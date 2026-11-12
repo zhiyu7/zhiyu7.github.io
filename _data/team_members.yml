@@ -93,3 +93,15 @@
   info: Computational associate jointly with Dr. Aeron Small
   bio: >
     Rong holds a Master’s degree in Biostatistics from Yale University. Her research focuses on statistical genetics and computational genomics to investigate the shared genetic architecture of complex diseases, particularly psychiatric and cardiovascular traits. She is interested in integrating genetic and functional genomic data to better understand disease mechanisms and genetic risk. Looking ahead, she hopes to apply genomic approaches to disease risk prediction and clinical research, translating genetic findings into clinically relevant insights.
+
+- name: Zihan (Leo) Zhuang
+  photo: Zihan.png
+  info: Graduate student
+  bio: >
+    Zihan is a master’s student in Computational Biology and Quantitative Genetics at Harvard T.H. Chan School of Public Health. His research interests include single-cell genomics, statistical genetics, and the development of computational methods to better understand gene regulation and disease mechanisms. He holds a bachelor’s degree in Computational Biology and Statistical Science from Cornell University.
+
+- name: Sophie Hsu
+  photo: Sophie.png
+  info: Undergraduate student
+  bio: >
+    Sophie is a Harvard undergraduate studying computer science and neuroscience. She builds assistive technologies using computer vision and robotics, including a street-crossing system for visually impaired pedestrians that was accepted to IEEE ICCE 2026.
