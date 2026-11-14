@@ -105,3 +105,9 @@
   info: Undergraduate student
   bio: >
     Sophie is a Harvard undergraduate studying computer science and neuroscience. She builds assistive technologies using computer vision and robotics, including a street-crossing system for visually impaired pedestrians that was accepted to IEEE ICCE 2026.
+
+- name: Qinyu (Joyce) Xu
+  photo: Qinyu.png
+  info: Graduate student
+  bio: >
+    Qinyu is a master’s student in the Computational Biology and Quantitative Genetics program in the Department of Biostatistics at Harvard T.H. Chan School of Public Health. Her research interests include understanding how differences in gene expression shape cell states and using computational approaches to investigate the genetic mechanisms underlying disease. She holds a dual degree in Applied Mathematics and Computational Sciences from Duke Kunshan University and Duke University.
