@@ -116,6 +116,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 
 <div class="jumbotron publication-list">
 
+  87. Wang R, **Zhang M**, Liu W, Chen M, Geissler RB, Dou H, Hardaway BD, Tavallaie M, Wang N, **Yu Z**, Tall AR. Jak2 VF clonal hematopoiesis worsens ischemic stroke via NETs and inflammasomes. <i>Circ Res</i>. Accepted.
   86. **The Somatic Mosaicism across Human Tissues Network (SMaHT)**. Comprehensive benchmarking of somatic mutation detection by the SMaHT Network. <i>Cell</i>. 2026 Oct 15;189(21):6594-6612.e21. [<a href="https://pubmed.ncbi.nlm.nih.gov/42880231/" target="_blank">link</a>]
   85. Ezzat D, Pabon MA, **Li L**, Chang A, De Moor N, **Yu Z**, Cho SMJ, Natarajan P, Spracklen C, LeBlanc ES, Eaton CB, LaMonte MJ, Stefanick ML, Manson JE, Parikh N, Reiner AP, Roh JD, Soria-Contreras DC, Hoshi RA, Mora S, Demler OV, Powe CE, Honigberg MC. Hypertensive Disorders of Pregnancy and Cardiovascular-Kidney-Metabolic Syndrome. <i>Hypertension</i>. 2026 Sep 21. [<a href="https://pubmed.ncbi.nlm.nih.gov/42765319/" target="_blank">link</a>]
   84. Fewings E, **Yu Z**, Gutierrez J, Truong B, Fiziev P, McRae J, Schwartzentruber J, Bick A, Natarajan P, Lareau C, Ulirsch J, Farh K. Clonal haematopoiesis subtypes confer dose-dependent risk of serious bacterial infection. <i>Nat Commun</i>. 2026 Oct 7;17(1):11400. [<a href="https://pubmed.ncbi.nlm.nih.gov/42982834/" target="_blank">link</a>]
